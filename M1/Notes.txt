@@ -21,3 +21,11 @@ Lastly the program calculates the similarity between each word in the set
 of preprocessed words and each seed word, "happy" and "sad",
 each word pair with a similarity score higher than the defined threshold
 is added to the lexicon.
+
+Todo:
+* Determine training set
+* Improve pre-processing
+* Experiment with different HPT sets
+* Experiment with different model HPs
+* Experiment with different models
+  (investigate state-of-the-art)
