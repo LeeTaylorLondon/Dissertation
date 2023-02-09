@@ -1,0 +1,23 @@
+Book chosen from:
+https://oxfordsummercourses.com/articles/books-for-english-literature-students-to-read/
+
+`cosine_similarity.py` uses the Natural Language Toolkit (nltk)
+and the gensim library to analyze the text of the book "The Great Gatsby".
+
+The text is read, processed, and tokenized, splitting it into words
+and sentences, then preprocesses the words by removing special characters
+and making them all lowercase. From the preprocessed words a set
+of words is made.
+
+Next, a set of two words, "happy" and "sad", are the
+seed words for extracting similar words.
+
+A Word2Vec model is created, which is a type of neural
+network for NLP, using the sentences from the book as training data.
+The model is trained using parameters such as the minimum word
+count, vector size, and window size.
+
+Lastly the program calculates the similarity between each word in the set
+of preprocessed words and each seed word, "happy" and "sad",
+each word pair with a similarity score higher than the defined threshold
+is added to the lexicon.
