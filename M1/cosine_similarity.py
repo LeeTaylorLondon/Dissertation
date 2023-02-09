@@ -35,29 +35,56 @@ word_set = set(words)
 
 # [2] Define the set `HPT` to contain words describing Human/Personality Traits
 # hpt = ("openness", "conscientiousness", "extraversion", "agreeableness", "neuroticism")
-hpt = ("happy", "sad", "funny", "miserable", "smart", "stupid")
+hpt = ("happy", "sad")
 
 # Create CBOW model
-model1 = gensim.models.Word2Vec(sens, min_count=2,
-                                vector_size=24, window=3)
+min_count   = 3
+vector_size = 10
+window      = 8
+model1 = gensim.models.Word2Vec(sens, min_count=min_count,
+                                vector_size=vector_size, window=window)
 model1.train(sens, total_words=len(word_set), epochs=model1.epochs)
 def calc_sim(w1, w2):
     return model1.wv.similarity(w1, w2)
 
 # Similarity for each word
+similarity_threshold = 0.989
 lexicon = []
 for bfw in hpt:
     for word in word_set:
         try:
             simi_ = calc_sim(word, bfw)
             # print(f"{word} {bfw} {calc_sim(word, bfw)}")
-            if simi_ > 0.99:
+            if simi_ > similarity_threshold:
                 lexicon.append(word)
         except:
             # print(f"Not found {bfw}")
             pass
 
+print(f"\nWord Seed Set: {hpt}\n"
+      f"\nWord2Vec HYPER-PARAMETERS: Min_count: {min_count}, "
+      f"Vec_size: {vector_size}, Win_size: {window}\n"
+      f"\n% Similarity Threshold: {similarity_threshold}\n"
+      f"\nLexicon:")
+
 offset = 20
 for i in range(0, len(lexicon), offset):
     print(lexicon[i: i+offset])
+
+"""
+EXAMPLE OUTPUT: 
+
+>>> Word Seed Set: ('happy', 'sad')
+>>> 
+>>> Word2Vec HYPER-PARAMETERS: Min_count: 3, Vec_size: 10, Win_size: 8
+>>> 
+>>> % Similarity Threshold: 0.989
+>>> 
+>>> Lexicon:
+>>> ['hall', 'myself', 'met', 'together', 'them.', 
+>>> 'dim', 'sad', 'taking', 'trembling', 'darkness.', 
+>>> 'emerged', 'grotesque']
+>>> 
+>>> Process finished with exit code 0
+"""
 
