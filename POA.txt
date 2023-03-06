@@ -30,7 +30,7 @@ Next Steps (B):
     and evaluation test if possible (start with 2 from each source
     where source = each website stated above)
     * [-] Test and evaluate each reproduced project for my own aim
-    * [-] Follow 'Next Steps (A)' from this point
+    * [-] Follow 'Next Steps (A)' from this point or continue
     * [-] Determine the best reproduced project/method for my aim
     * [-] From the best reproduced project/method improve on their
     mentioned stated weaknesses
