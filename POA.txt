@@ -13,7 +13,8 @@ Next Steps:
     * [-] From the large corpus of papers determine the best papers
     to reproduce as 'reproducibles' and justify why over other papers
     * [-] For each paper in 'reproducibles' reproduce the code
-    and evaluation test if possible
+    and evaluation test if possible (start with 2 from each source
+    where source = each website stated above)
     * [-] Test and evaluate each reproduced project for my own aim
     * [-] Determine the best reproduced project/method for my aim
     * [-] From the best reproduced project/method improve on their
