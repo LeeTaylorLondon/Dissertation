@@ -1,4 +1,14 @@
 'ACT-NBM by simplifying, decomposing, and organising.'
+key: RPX = Reproducing-Paper-X, where X equals the 1st, 2nd, 3rd, ... nth paper.
+
+Next Steps (RP1):
+    * Create an enrichment corpus 160K sentences and 120K unique words
+      * Only keep sentences of 10 words or more
+      * Remove casing, special, and punctuation characters
+    * Create a PT-HLA entity set containing only words directly related to PT-HLA
+      * Derive synonyms from thesaurus.com (only with a relevance score of 1)
+      (a pair of words w1 and w2 are strong synonyms if and only if w1 appears
+      in the synonym list of w2 and w2 appears in the synonym list of w1)
 
 
 Next Steps (A):
