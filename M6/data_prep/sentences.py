@@ -18,6 +18,10 @@ def store_pickle_file(obj, filename):
 
 
 def load_pickle_file(filename):
+    """
+    Passed a filename or path to a pickle file the
+    object is loaded and returned.
+    """
     with open(filename, 'rb') as f:
         obj = pickle.load(f)
     return obj
@@ -29,7 +33,10 @@ def list_info(arr):
         print(f"List contains {len(arr)} items.")
     elif isinstance(arr, set):
         print(f"Set contains {len(arr)} items.")
-    print(f"First 5 items: {list(arr)[:5]}.\n")
+    print(f"First 5 items:[")
+    for item in list(arr)[:5]:
+        print(f"'{item}',")
+    print(f"]\n")
     # Mark EOF
     pass
 
@@ -55,15 +62,15 @@ def extract_words(sentences_list):
     a list of words and a set unique words, both of which
     are returned.
     """
-    words = []
+    words_ = []
     for arr in sentences_list:
         for i, word in enumerate(arr.split()):
-            words.append(word.strip().lower())
+            words_.append(word.strip().lower())
     # list_info(words)
     # Extract unique words from sentences
-    words_set = set(words)
-    list_info(words_set)
-    return words, words_set
+    words_set_ = set(words_)
+    list_info(words_set_)
+    return words_, words_set_
 
 
 def preprocess_sentences(sentences_list):
@@ -83,7 +90,7 @@ def preprocess_sentences(sentences_list):
 
 if __name__ == '__main__':
     # Extract and stored sentences as a loadable file
-    # sentences = extract_sentences("en")
+    # sentences = extract_sentences("books_xml")
     # store_pickle_file(sentences, 'sentences.pkl')
     # print("Stored object 'sentences' as 'sentences.pkl'.")
 
@@ -101,7 +108,7 @@ if __name__ == '__main__':
 
     # Load sentences from .pkl file and reduce sentences
     sentences_p = load_pickle_file('sentences_processed.pkl')
-    list_info(sentences_p) # 167.5K Sentences
+    list_info(sentences_p)  # 167.5K Sentences
 
     # Extract all words and unique words
     print("Unique words.")
