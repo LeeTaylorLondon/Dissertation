@@ -71,15 +71,20 @@ def load_w2v(fn='google_w2v_weights/GoogleNews-vectors-negative300.bin.gz'):
     return rv
 
 
-def expand_set(model_fp='word2vec.model', entity_set_fp='data_prep/entity_set',
-               out=True, output_fn='expansion_set_2'):
+def expand_set(model_fp='google_w2v_weights/GoogleNews-'
+                        'vectors-negative300.bin.gz',
+               entity_set_fp='data_prep/entity_set.txt',
+               entity_set=None,
+               out=True,
+               output_fn='expansion_set_2'):
     """
     This function loads a specified W2V model, reads and loads an entity set
     from a pickle file and convert it to a list.
     Then for each word in the entity set it appends the word and most similar
     word returned from the W2V model.
+    :param entity_set: set - the set of words which to expand on.
     :param model_fp: str - file path pointing to weights to be loaded.
-    :param entity_set_fp: str - file path pointing to set to be loaded.
+    :param entity_set_fp: (str||None) - file path pointing to set to be loaded.
     :param out: bool - if true then the function will print info otherwise nothing
     will be outted to the console.
     :param output_fn: str - file name of the output to be stored and written to
@@ -93,11 +98,14 @@ def expand_set(model_fp='word2vec.model', entity_set_fp='data_prep/entity_set',
     if model_fp.__contains__('.model'):
         pre_trained = True
     # Define the initial entity set
-    entity_set = read_words_from_file(entity_set_fp)
-    if out: list_info(entity_set)
+    if entity_set_fp is not None:
+        entity_set = read_words_from_file(entity_set_fp)
+    if out:
+        list_info(entity_set)
     # Convert set to array
     entity_arr = list(entity_set)
-    if out: list_info(entity_arr)
+    if out:
+        list_info(entity_arr)
     # Expand the entity set
     expansion_arr = []
     for word in entity_set:
@@ -111,12 +119,17 @@ def expand_set(model_fp='word2vec.model', entity_set_fp='data_prep/entity_set',
                 print(f"'{word}' not present in W2V vocabulary.")
             continue
         # similar_words = [word[0] for word in model.most_similar(word, topn=num_similar_words)]
-        expansion_arr.append(f"{word}, {similar_words_list[0][0]}")
+        # expansion_arr.append(f"{word}, {similar_words_list[0][0]}")
+        similar_words_added = 0
         for i, v in enumerate(similar_words_list):
-            if word != v:
+            if similar_words_added == 3:
+                continue
+            if word.lower() != v[0].lower():
                 expansion_arr.append(f"{word}, {similar_words_list[i][0]}")
+                similar_words_added += 1
     # The expanded entity set
-    if out: list_info(expansion_arr)
+    if out:
+        list_info(expansion_arr)
     write_words_to_file(f"{output_fn}.txt", expansion_arr)
     return expansion_arr
 
@@ -138,17 +151,17 @@ def w2v_transfer_learning(corpus_fp='data_prep/sentences_processed.pkl',
     # Load sentences from .pkl file
     corpus = load_pickle_file(corpus_fp)
     list_info(corpus)
-    # # Create the Word2Vec model
-    # model = Word2Vec(vector_size=300, min_count=1)
-    # model.build_vocab(corpus)
-    # # Prevent error # Todo: this might be wrong
-    # model.wv.vectors_lockf = np.ones((100, 100), dtype=np.float32)
-    # # Use experimental function to perform TL
-    # model.wv.intersect_word2vec_format('google_w2v_weights/GoogleNews'
-    #                                    '-vectors-negative300.bin.gz', binary=True)
-    # model.train(corpus, total_examples=len(corpus), epochs=10)
-    # # Save the model as pre-trained weights to load later
-    # save_model(model, model_fn)
+    # Create the Word2Vec model
+    model = Word2Vec(vector_size=300, min_count=1)
+    model.build_vocab(corpus)
+    # Prevent error # Todo: this might be wrong
+    model.wv.vectors_lockf = np.ones((100, 100), dtype=np.float32)
+    # Use experimental function to perform TL
+    model.wv.intersect_word2vec_format('google_w2v_weights/GoogleNews'
+                                       '-vectors-negative300.bin.gz', binary=True)
+    model.train(corpus, total_examples=len(corpus), epochs=10)
+    # Save the model as pre-trained weights to load later
+    save_model(model, model_fn)
     # Mark EOF
     pass
 
@@ -170,11 +183,20 @@ if __name__ == '__main__':
     # expand_set()
 
     """
-    def expand_set(model_fp='word2vec.model', entity_set_fp='data_prep/entity_set',
-               out=True, output_fn='expansion_set_2'):
+    def expand_set(
+            model_fp='word2vec.model', 
+            entity_set_fp='data_prep/entity_set.txt',
+            out=True, 
+            output_fn='expansion_set_2'
+        ):
     """
+
     expand_set(model_fp='google_trained_2.model',
-               output_fn='expansion_set.txt')
+               output_fn='expansion_set_TLM',
+               entity_set_fp=None,
+               entity_set={'happy', 'sad', 'optimistic'})
+
+    # expand_set(output_fn='expansion_set_google')
 
     # Mark end of if-name-main-section
     pass
