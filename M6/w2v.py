@@ -191,12 +191,15 @@ if __name__ == '__main__':
         ):
     """
 
-    expand_set(model_fp='google_trained_2.model',
-               output_fn='expansion_set_TLM',
-               entity_set_fp=None,
-               entity_set={'happy', 'sad', 'optimistic'})
+    # expand_set(model_fp='google_trained_2.model',
+    #            output_fn='expansion_set_TLM',
+    #            entity_set_fp=None,
+    #            entity_set={'happy', 'sad', 'optimistic'})
 
     # expand_set(output_fn='expansion_set_google')
+
+    # Todo: use .pkl files in 'scrapings_sentences'  to train a W2V
+    #  model then generate synonyms
 
     # Mark end of if-name-main-section
     pass

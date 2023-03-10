@@ -1,0 +1,68 @@
+﻿^ Tung, Liam (July 5, 2018). "Use this popular Chrome, Firefox browser add-on? Google, Mozilla just banished it". ZDNet. Retrieved July 6, 2018.
+^ Barnabe, Jason (1 January 2013). "Stylish for Opera!". userstyles.org.
+^ Heaton, Robert (July 2, 2018). ""Stylish" browser extension steals all your internet history".
+^ Barnabe, Jason (1 March 2010). "Stylish for Google Chrome". Userstyles.org.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}np [Jason Barnabe] (9 October 2005). "Stylish 0.1.1 Released [11 Oct]". MozillaZine. Archived from the original on 10 December 2005.
+Cimpanu, Catalin (July 4, 2018). "Chrome and Firefox Pull Stylish Add-On After Report It Logged Browser History". Bleeping Computer. Retrieved July 5, 2018.
+"Use this popular Chrome, Firefox browser add-on? Google, Mozilla just banished it"
+^ hideheader (October 8, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on July 5, 2018. (a) similarweb.com is a web analytics company and (b) that new Userstyles form was created in SimilarWeb's Google Docs account. Naturally I'm curious, Justin. Does SimilarWeb.com own Stylish and Userstyles, or are you an employee who is simply using the company butter?
+^ "Stylish extension - Opera add-ons". Opera Software ASA. Archived from the original on 25 April 2015.The oldest comment is dated 26 July 2013.{{cite web}}:CS1 maint: postscript (link)
+^ "Stylish extension - Opera Add-ons". Archived from the original on 30 January 2018.
+^ Pilgrim, Mark (2005). 4.13. Adding CSS styles. Dive into Greasemonkey.
+^ "ReStyle – Get this Extension for 🦊 Firefox (En-US)".
+In December 2016 Hindman began releasing updates to Stylish for Chrome[19] which returned a perfect replica of the user's browsing activity to Userstyles.[20] On 3 January 2017 he announced a "partnership" with SimilarWeb in which "Stylish users [would] be joining SimilarWeb’s market research panel.".[21] A Firefox web extension (3.0.1) was released on 10 November, after a final update (2.1.1) to the Stylish XUL+XPCOM add-on on 31 October to migrate user styles to a webextension-compatible database.[8][22]
+"Stylish extension - Opera add-ons". Opera Software ASA. Archived from the original on 25 April 2015.The oldest comment is dated 26 July 2013.{{cite web}}:CS1 maint: postscript (link)
+^ "XStyle – Get this Extension for 🦊 Firefox (En-US)".
+JasonBarnabe (September 29, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on October 9, 2016.
+Heaton, Robert (16 August 2018). ""Stylish" is back, and you still shouldn't use it".
+hideheader (September 29, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on October 9, 2016. Justin hasn't posted any styles, isn't (yet) a forum admin, nor has he posted to the forum before today.
+^ "AStyle-Custom theme,custom style – Get this Extension for 🦊 Firefox (En-US)".
+^ JasonBarnabe (September 29, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on October 9, 2016.
+^ "Stylus – Get this Extension for 🦊 Firefox (En-US)".
+A userscript manager such as Greasemonkey or Tampermonkey can add a local style sheet to a web page by adding the style sheet content to an HTML  tag and adding the tag to the page.[32] User styles from Userstyles.org can be downloaded as user scripts for use with a userscript manager.
+@VessOnSecurity (16 August 2018). "Remember the Firefox extension Stylish that was found to snarf browser history? That was removed from the store, then added again, then again removed? Well, it's back" (Tweet) – via Twitter.
+^ Cimpanu, Catalin (July 4, 2018). "Chrome and Firefox Pull Stylish Add-On After Report It Logged Browser History". Bleeping Computer. Retrieved July 5, 2018.
+Pilgrim, Mark (2005). 4.13. Adding CSS styles. Dive into Greasemonkey.
+Tung, Liam (July 5, 2018). "Use this popular Chrome, Firefox browser add-on? Google, Mozilla just banished it". ZDNet. Retrieved July 6, 2018.
+Barnabe, Jason (3 July 2013). "Stylish for Chrome and Opera (15+) 1.2b". Userstyles.org.
+Barnabe, Jason (1 March 2010). "Stylish for Google Chrome". Userstyles.org.
+^ Heaton, Robert (16 August 2018). ""Stylish" is back, and you still shouldn't use it".
+^ Barnabe, Jason (9 April 2014). "Stylish for Safari". userstyles.org.
+Stylish was originally developed by Jason Barnabe as an XUL/XPCOM add-on for Mozilla Firefox. A Chrome extension followed in 2010,[5] which was released for Blink-based Opera 15 in 2013[6][7] and as a Firefox WebExtension in 2017.[8][9] Similar extensions for Safari[10] and for Presto-based Opera[11] are distributed as 'Stylish' by other developers with Barnabe's approval.[12][13]
+"Version History of Stylish for Chrome". Crx4Chrome. Archived from the original on June 15, 2018.
+"Make the whole Web look better with Stylish," Nathan Willis, Mon 7 May 2007.
+This page was last edited on 21 February 2023, at 04:29 (UTC).
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}np [Jason Barnabe] (9 October 2005). "Stylish 0.1.1 Released [11 Oct]". MozillaZine. Archived from the original on 10 December 2005.
+In September 2016 Jason Barnabe, the creator of Stylish and userstyles.org, announced that, having lost interest in the project, he had "chosen Justin Hindman as the next leader of Stylish and userstyles.org."[15] Hindman had no prior connection to either Stylish or userstyles.org,[16] and it soon became clear that Barnabe had simply sold them to Hindman[17] in a straw purchase for Israeli analytics company SimilarWeb.[18]
+"Chrome and Firefox Pull Stylish Add-On After Report It Logged Browser History"
+hideheader (October 8, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on July 5, 2018. (a) similarweb.com is a web analytics company and (b) that new Userstyles form was created in SimilarWeb's Google Docs account. Naturally I'm curious, Justin. Does SimilarWeb.com own Stylish and Userstyles, or are you an employee who is simply using the company butter?
+^ "Stylus – Get this Extension for 🦊 Firefox (en-US)". Add-ons for Firefox. Archived from the original on October 29, 2022.
+^ a b natalieg. "New version for Firefox". userstyles.org. Archived from the original on December 26, 2017.
+"Modifying the Default Skin - Archive of obsolete content | MDN". developer.mozilla.org. Archived from the original on 28 September 2019.
+"Stylish extension - Opera Add-ons". Archived from the original on 30 January 2018.
+hideheader (December 20, 2016). "Release Notes - Stylish 1.6.3 is out!". userstyles.org. Archived from the original on July 5, 2018. If you opt-in to the 'Style Library' then Justin collects every URL you browse to, along with the URL of the page you were just viewing. That is, he's collecting your complete browsing history.
+Heaton, Robert (July 2, 2018). ""Stylish" browser extension steals all your internet history".
+^ Brinkmann, Martin (17 August 2018). "Stylish add-on makes a return". gHacks.
+Justin Hindman (January 3, 2017). "Announcement to the Community". userstyles.org. Archived from the original on January 5, 2017.
+Brinkmann, Martin (17 August 2018). "Stylish add-on makes a return". gHacks.
+"AStyle-Custom theme,custom style – Get this Extension for 🦊 Firefox (En-US)".
+"AStyle-Custom theme,custom style – Get this Extension for 🦊 Firefox (En-US)"
+^ hideheader (September 29, 2016). "The new leader of Stylish and userstyles.org". userstyles.org. Archived from the original on October 9, 2016. Justin hasn't posted any styles, isn't (yet) a forum admin, nor has he posted to the forum before today.
+^ hideheader (December 20, 2016). "Release Notes - Stylish 1.6.3 is out!". userstyles.org. Archived from the original on July 5, 2018. If you opt-in to the 'Style Library' then Justin collects every URL you browse to, along with the URL of the page you were just viewing. That is, he's collecting your complete browsing history.
+^ Justin Hindman (January 3, 2017). "Announcement to the Community". userstyles.org. Archived from the original on January 5, 2017.
+^ Barnabe, Jason (3 July 2013). "Stylish for Chrome and Opera (15+) 1.2b". Userstyles.org.
+In July 2018, after these issues were publicized by a software engineer,[23] Stylish was pulled from both the Chrome Web Store and Mozilla Add-ons, as well as being automatically uninstalled for all existing users.[24][25][26] Stylish returned to Mozilla Add-ons on 16 August[27] and to the Chrome Web Store on 5 November[19] with the same logic but sporting a new opt-in page asking users to agree to the data collection when the extension was installed.[28][29] Firefox now reports fewer users of Stylish than its more popular alternative, Stylus.[30][31]
+"Remember the Firefox extension Stylish that was found to snarf browser history? That was removed from the store, then added again, then again removed? Well, it's back"
+^ "Modifying the Default Skin - Archive of obsolete content | MDN". developer.mozilla.org. Archived from the original on 28 September 2019.
+"Modifying the Default Skin - Archive of obsolete content | MDN"
+"Stylus – Get this Extension for 🦊 Firefox (en-US)". Add-ons for Firefox. Archived from the original on October 29, 2022.
+^ "Make the whole Web look better with Stylish," Nathan Willis, Mon 7 May 2007.
+natalieg. "New version for Firefox". userstyles.org. Archived from the original on December 26, 2017.
+^ @VessOnSecurity (16 August 2018). "Remember the Firefox extension Stylish that was found to snarf browser history? That was removed from the store, then added again, then again removed? Well, it's back" (Tweet) – via Twitter.
+^ a b "Version History of Stylish for Chrome". Crx4Chrome. Archived from the original on June 15, 2018.
+
+This page was last edited on 19 January 2022, at 11:39.
+Content is available under these licensing terms unless otherwise noted.
+Double-click to consume. Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe. — In-game description
+Double-click to consume.Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.
+Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.
