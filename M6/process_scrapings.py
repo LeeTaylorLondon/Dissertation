@@ -80,6 +80,37 @@ def extract_sentences(big_string_):
     return rv
 
 
+def files_to_one(entity_set_fp='data_prep/entity_set.txt',
+                 ):
+    """
+
+    :param entity_set_fp:
+    """
+    # big_list stores all sentences from every pickle file
+    big_list = []
+    # Read list of words to search
+    entity_set_ = read_words_from_file(entity_set_fp)
+    for word_ in entity_set_:
+        try:
+            sentences_list = load_pickle_file(f"scrapings_sentences/"
+                                              f"wikipedia {word_}.pkl")
+        except FileNotFoundError:
+            continue
+        # Extract each sentence into big_list
+        for elm in sentences_list:
+            big_list.append(elm)
+    # store all sentences
+    store_pickle_file(big_list,
+                      f"scrapings_sentences/all sentences.pkl"
+                      )
+    #
+    for elm in big_list[:25]:
+        print(elm)
+    # Mark EOF
+    pass
+
+
+
 if __name__ == '__main__':
     # Read list of words to search
     entity_set = read_words_from_file('data_prep/entity_set.txt')
