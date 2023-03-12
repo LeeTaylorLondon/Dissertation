@@ -1,7 +1,7 @@
 # Author: Lee Taylor
 import pickle
 import re
-from w2v import read_words_from_file
+from perform_set_expansion import read_words_from_file
 
 
 def store_pickle_file(obj, filename):
@@ -80,8 +80,7 @@ def extract_sentences(big_string_):
     return rv
 
 
-def files_to_one(entity_set_fp='data_prep/entity_set.txt',
-                 ):
+def compile_files(entity_set_fp='data_prep/entity_set.txt'):
     """
 
     :param entity_set_fp:
@@ -100,33 +99,33 @@ def files_to_one(entity_set_fp='data_prep/entity_set.txt',
         for elm in sentences_list:
             big_list.append(elm)
     # store all sentences
-    store_pickle_file(big_list,
-                      f"scrapings_sentences/all sentences.pkl"
-                      )
-    #
+    store_pickle_file(
+        big_list,
+        f"scrapings/scrapings_sentences/all sentences.pkl"
+    )
+    # Check first 25 items and structure, etc.etc
     for elm in big_list[:25]:
         print(elm)
     # Mark EOF
     pass
 
 
-
 if __name__ == '__main__':
-    # Read list of words to search
-    entity_set = read_words_from_file('data_prep/entity_set.txt')
-    # Parse webapage for text
-    for word in entity_set:
-        with open(f"scrapings_copy/wikipedia {word}.txt", "r",
-                  encoding='utf-8-sig') as f:
-            lines = f.readlines()
-
-        # Remove fullstops
-        big_string = smart_replace(''.join(lines))
-        sentences = extract_sentences(big_string)
-        # print(sentences)
-        store_pickle_file(sentences,
-                          f"scrapings_sentences/wikipedia {word}.pkl"
-                          )
+    # # Read list of words to search
+    # entity_set = read_words_from_file('data_prep/entity_set.txt')
+    # # Parse webapage for text
+    # for word in entity_set:
+    #     with open(f"scrapings_copy/wikipedia {word}.txt", "r",
+    #               encoding='utf-8-sig') as f:
+    #         lines = f.readlines()
+    #
+    #     # Remove fullstops
+    #     big_string = smart_replace(''.join(lines))
+    #     sentences = extract_sentences(big_string)
+    #     # print(sentences)
+    #     store_pickle_file(sentences,
+    #                       f"scrapings_sentences/wikipedia {word}.pkl"
+    #                       )
 
     # Mark end of if-name-main-section
     pass

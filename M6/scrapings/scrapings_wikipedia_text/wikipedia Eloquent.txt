@@ -1,0 +1,58 @@
+﻿
+Eloquent is one of the traits featured in The Sims Medieval. It conflicts with the Fatal Flaw Uncouth.
+If given to the Merchant they can convince people to buy stuff from their Stall faster, however Friendly could do that too, and a high level Merchant can easily just Hustle instead.
+Adventurous · Call of the Sea · Chivalrous · Creative Cook · Dedicated · Earthy · Eloquent · Entitled · Evil · Excitable · Friendly · Fun-Loving · Good · Greedy · Haggler · Hopeful Orphan · Jokester · Loves Family · Scholarly · Solitary · Unkempt · Vain · Whale Ate My Parents
+Bloodthirsty · Compulsive Gambler · Cowardly · Cruel · Cursed · Drunkard · Fool · Glutton · Guild Enemy · Hubris · Insecure · Insomniac · Licentious · Misanthrope · Morose · Puny · Uncouth · Weak Constitution
+Community																																														Discussion																																							Forums																															IRC Channel																															Chat																																																Community																																							Community Portal																															Development Suggestions
+"Eloquent Sims have the gift of gab. Just a few words from an Eloquent Sim are enough to convince, inspire, or comfort anyone."
+Eloquent Sims have the gift of gab. Just a few words from an Eloquent Sim are enough to convince, inspire, or comfort anyone.
+Requests																																							Requests for Rollback																															Requests for Adminship																															Requests for Bureaucratship
+Your sim has extra social options when conversing with other Sims that can greatly improve relationships.
+Admin																																														Requests																																							Requests for Rollback																															Requests for Adminship																															Requests for Bureaucratship																																																Admin Dashboard																																							Admin Portal																															Contact Administrators
+Build robust, full-stack applications in PHP using Laravel and Livewire. Love JavaScript? Build a monolithic React or Vue driven frontend by pairing Laravel with Inertia.
+Laravel Partners are elite shops providing top-notch Laravel development and consulting. Each of our partners can help you craft a beautiful, well-architected project.
+VaporLaravel Vapor is a serverless deployment platform for Laravel, powered by AWS. Launch your Laravel infrastructure on Vapor and fall in love with the scalable simplicity of serverless.
+“Laravel has been like rocket fuel for my career and business.“
+Dispatch background jobs to perform slow tasks like sending emails and generating reports while maintaining blazing fast response times. Laravel's robust queue system can process jobs using Redis, Amazon SQS, or even MySQL and Postgres.
+“The Laravel ecosystem has been integral to the success of our business. The framework allows us to move fast and ship regularly, and Laravel Vapor has allowed us to operate at an incredible scale with ease.“
+Laravel is for everyone — whether you have been programming for 20 years or 20 minutes. It's for architecture astronauts and weekend hackers. For those with degrees and for those who dropped out to chase their dreams. Together, we create amazing things.
+Take the pain out of managing subscriptions on Stripe or Paddle.
+Laravel Vapor is a serverless deployment platform for Laravel, powered by AWS.
+Our vast library of meticulously maintained packages means you're ready for anything. Let Laravel Octane supercharge your application's performance, and experience infinite scale on Laravel Vapor, our serverless deployment platform powered by AWS Lambda.
+“I've been enjoying Laravel's focus on pushing developer experience to the next level for many years. All pieces of the ecosystem are powerful, well designed, fun to work with, and have stellar documentation. The surrounding friendly and helpful community is a joy to be a part of.“
+Laravel Echo and event broadcasting make it a cinch to build modern, realtime user experiences. Create amazing realtime applications while powering your WebSockets with pure PHP, Node.js, or serverless solutions like Pusher and Ably.
+“Laravel and its ecosystem of tools help me build client projects faster, more secure, and higher quality than any other tools out there.“
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in most web projects.
+Laravel is a Trademark of Taylor Otwell. Copyright © 2011-2023 Laravel LLC.
+ValetThe fastest Laravel local development experience - exclusively for macOS.
+Or, let Laravel serve as a robust backend API for your Next.js application, mobile application, or other frontend. Either way, our starter kits will have you productive in minutes.
+Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+“I found Laravel by chance, but I knew right away that I found my thing. The framework, the ecosystem and the community - it’s the perfect package. I’ve worked on amazing projects and met incredible people; it’s safe to say that Laravel changed my life.“
+“I've been using Laravel for over 10 years and I can't imagine using PHP without it.“
+SanctumAPI and mobile application authentication without wanting to pull your hair out.
+“Laravel grew out to be an amazing innovative and active community. Laravel is so much more than just a PHP framework.“
+Lightweight starter kit scaffolding for new applications with Blade or Inertia.
+“Laravel takes the pain out of building modern, scalable web apps.“
+SparkLaunch your next business with our fully-featured, drop-in billing portal.
+“I've been using Laravel for every project over the past ten years in a time where a new framework launches every day. To this date, there's just nothing like it.“
+BreezeLightweight starter kit scaffolding for new applications with Blade or Inertia.
+Laravel's "Eloquent" ORM provides best-in-class database abstraction without the headaches. Query and update your data without breaking a sweat. Eloquent pairs perfectly with MySQL, Postgres, SQLite, and SQL Server.
+API and mobile application authentication without wanting to pull your hair out.
+“Laravel is nothing short of a delight. It allows me to build any web-y thing I want in record speed with joy.“
+“I’ve been using Laravel for nearly a decade and never been tempted to switch to anything else.“
+The fastest Laravel local development experience - exclusively for macOS.
+Stop sweating authentication. Laravel provides scaffolding for secure, session based authentication, while Laravel Sanctum provides painless authentication for APIs and mobile applications.
+“Laravel has helped me launch products quicker than any other solution, allowing me to get to market faster and faster as the community has evolved.“
+“Laravel’s best-in-class testing tools give me the peace of mind to ship robust apps quickly.“
+Laracasts includes free videos and tutorials covering the entire Laravel ecosystem. Stay up to date by watching our latest videos.
+“As an old school PHP developer, I have tried many frameworks; none has given me the development speed and enjoyment of use that I found with Laravel. It is a breath of fresh air in the PHP ecosystem, with a brilliant community around it.“
+VaporLaravel Vapor is a serverless deployment platform for Laravel, powered by AWS.
+ForgeServer management doesn't have to be a nightmare. Provision and deploy unlimited PHP applications on DigitalOcean, Linode, Vultr, Amazon, Hetzner and more.
+“Laravel makes building web apps exciting! It has also helped me to become a better developer 🤙“
+CashierTake the pain out of managing subscriptions on Stripe or Paddle.
+Laravel is committed to delivering the best testing experience you can imagine. No more brittle tests that are a nightmare to maintain. Beautiful testing APIs, database seeding, and painless browser testing let you ship with confidence.
+Laravel values beauty. We love clean code just as much as you do. Simple, elegant syntax puts amazing functionality at your fingertips. Every feature has been thoughtfully considered to provide a wonderful developer experience.
+Launch your next business with our fully-featured, drop-in billing portal.
+“I didn't fully appreciate Laravel's one-stop-shop, all-encompassing solution, until I tried (many) different ecosystems. Laravel is in a class of its own!“
+“Laravel is for developers who write code because they can rather than because they have to.“
+EcosystemBreezeLightweight starter kit scaffolding for new applications with Blade or Inertia.CashierTake the pain out of managing subscriptions on Stripe or Paddle.DuskAutomated browser testing to ship your application with confidence.EchoListen for WebSocket events broadcast by your Laravel application.EnvoyerDeploy your Laravel applications to customers with zero downtime.ForgeServer management doesn't have to be a nightmare.HorizonBeautiful UI for monitoring your Redis driven Laravel queues.JetstreamRobust starter kit including authentication and team management.NovaThoughtfully designed administration panel for your Laravel applications.OctaneSupercharge your application's performance by keeping it in memory.PintOpinionated PHP code style fixer for minimalists.SailHand-crafted Laravel local development experience using Docker.SanctumAPI and mobile application authentication without wanting to pull your hair out.ScoutLightning fast full-text search for your application's Eloquent models.SocialiteSocial authentication via Facebook, Twitter, GitHub, LinkedIn, and more.SparkLaunch your next business with our fully-featured, drop-in billing portal.TelescopeDebug your application using our debugging and insight UI.ValetThe fastest Laravel local development experience - exclusively for macOS.VaporLaravel Vapor is a serverless deployment platform for Laravel, powered by AWS.

@@ -1,0 +1,42 @@
+﻿
+This page was last edited on 25 February 2023, at 17:44.
+Diseases are Health traits that can be spread from one character to another. If a character recovers from certain Diseases they become immune to them. Immunity lasts 20 years for Cancer, Consumption, Gout, Great Pox, Pneumonia, and Typhus, and is permanent for the Bubonic Plague and Smallpox. There is no immunity against the Ill trait, and characters cannot recover from Leper or Lover's Pox.
+The visual effect of certain health traits can be replaced with one from a lesser trait by disabling Show graphic diseases and injuries option in the settings menu.
+The following Congenital traits come in multiple levels. A leveled Congenital trait has a 50% chance to increase in level if both parents have the same trait. The name of some leveled traits depends on the character's gender.
+Descendant traits can be obtained if one of a character's known parents has either a certain founding trait or a descendant trait. Descendant traits are lost if a character's father is revealed to be someone without such traits and the mother does not have it.
+Stress gain through granting Vassals independence, legitimizing bastard or signing white peace in offensive wars
+Each year a character has a 10% chance to gain an Illness trait, though this can be reduced in multiple ways. The Bubonic Plague cannot appear before year 1346.
+The same parent's culture had the Byzantine Traditions cultural tradition when the character was born
+Traits represent a character's personality, abilities, reputation, and physical characteristics. They can be gained or lost through events and some traits can be inherited by descendants. Traits affect everything about a character, from attributes to the opinion others have on them. Most traits influence the outcome of certain events or grant additional options. When using the Ruler Designer, traits have a cost in customization points.
+Prowess traits can be obtained together with a  Martial education one if either the child or its guardian's culture that has the Knighthood innovation and a Martial Custom cultural pillar matching the child's gender.
+A Health trait is a negative trait that lowers a character's  Health and is visible on the character. They last a varying amount of time and differ greatly in lethality.
+Personality traits are the traits that represent a character the most and impact if and how much  Stress a character receives for actions and decisions that conflict with these traits. For AI characters, it also determines their behavior (e.g. how resistant they are to another character's  Dread). Characters tend not to have more than 3 personality traits. While personality traits can change, it is very difficult to do so; this most often occurs as the result of a mental break at Stress Level 2 or higher.
+Infamous traits may be accepted, shunned or considered criminal by a character depending on the Doctrines or Tenets of its faith.
+Please help with verifying or updating older sections of this article.At least some were last verified for version 1.7.
+One of the parents had their capital in the Barony of Constantinople when the character was born
+Dynasty traits can be either given or removed by members of the same Dynasty.
+If the mother was landed she must have been at peace with the father during the birth
+Stress gain through gifting titles (if under Domain Limit), granting Vassals independence, or signing white peace in offensive wars
+Stress gain through execution of non-criminal prisoners, claim throne, or force onto council
+The traits Melancholic, Lunatic and Possessed also have a non-genetic version that can be lost and gained through events.
+Congenital traits have a very small chance to appear upon birth and can be inherited by a character's descendants, especially if both parents have the same trait. Congenital traits are marked with a white aura.
+Commander traits give various bonuses to armies led by a character with such traits. If creating a custom ruler each commander trait costs 25 customization points.
+Characters between 3 and 15 years old can have one childhood trait. Childhood traits grant a minor bonus to two Skills and if the child is given an Education Focus that matches one of the two Skills the trait improves, then the trait can improve the level of the education trait given when the character reaches adulthood. If creating a custom ruler each childhood trait costs 5 customization points.
+These traits are unobtainable during normal gameplay. However, they may be used by historical characters.
+When reaching adulthood every character receives an education trait based on how their education focus went. Education traits grant a bonus to one skill as well as to the monthly experience gained in the Lifestyle associated with the trait. There are two exceptions:
+Stewardship-Learning traits can be obtained if the child's dynasty has the secondMetropolitan legacy unlocked. The chance to gain a trait are equal to the  Development level of their guardian's liege's capital and higher  Development also increases the chance of gaining a better trait.
+Stress gain through Blackmail, Murder, Torture, Imprisonment and Title Revocation
+If the mother was landless she must have physically been in Constantinople during the birth
+A coping mechanism is a trait that can be obtained when a character suffers a mental break and helps a character lose  stress and usually imparts negative effects. A few coping mechanisms impart only positive effects and are rare but can be obtained more easily by having the Whole of Body lifestyle focus. Each coping mechanism unlocks a unique decision.
+The same parent owned the Byzantine Empire or Roman Empire title when the character was born
+Court type traits can only be obtained by characters that have been courtiers for at least 5 years. For a level 1 trait the court must have reached Grandeur Level 5 while for level 2 the court must have reached Grandeur Level 8. These traits cannot be selected for custom rulers.
+Stress gain through kick from court, disinherit, denounce, break up with lover, dismiss concubine, fabricate hook, blackmail, imprison, move to dungeon, execution, start murder, start abduct, torture and title revocation
+Lifestyle traits can be obtained through either the final perk of each Lifestyle tree or as a result of Lifestyle Decisions.
+The following Lifestyle traits can be obtained and reinforced as a result of Lifestyle events, Activities events and Court positions.
+These traits can only be gained by events and may have different names depending on circumstances.
++5 Advantage in Desert, Desert Mountains, Drylands and Oasis terrain
+Little Miss Stubborn, a character in the Little Miss series of books
+This page was last edited on 5 November 2022, at 15:38 (UTC).
+Stubborn means having or showing dogged determination not to change one's attitude or position on something.
+Citrus stubborn disease, a plant disease affecting species in the genus Citrus
+Mr. Stubborn, a character on the children's television show The Mr. Men Show
