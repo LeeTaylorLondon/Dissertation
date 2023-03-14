@@ -113,7 +113,7 @@ def compile_files(entity_set_fp='data_prep/entity_set.txt'):
 if __name__ == '__main__':
     # # Read list of words to search
     # entity_set = read_words_from_file('data_prep/entity_set.txt')
-    # # Parse webapage for text
+    # # Parse webpage for text
     # for word in entity_set:
     #     with open(f"scrapings_copy/wikipedia {word}.txt", "r",
     #               encoding='utf-8-sig') as f:

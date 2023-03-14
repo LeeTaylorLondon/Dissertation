@@ -1,5 +1,6 @@
 'ACT-NBM by simplifying, decomposing, and organising.'
 key: RPX = Reproducing-Paper-X, where X equals the 1st, 2nd, 3rd, ... nth paper.
+Use this maybe: https://github.com/tqdm/tqdm
 
 Next Steps (RP1):
     * [X] Create an enrichment corpus 160K sentences and 120K unique words

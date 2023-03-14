@@ -148,7 +148,7 @@ def w2v_transfer_learning(corpus_fp='data_prep/sentences_processed.pkl',
     Note: this uses an experimental function from the gensim library.
     Although I got it to function it does not work or perform as intended.
 
-    Loads the google pre-trained model, trains the existing
+    Loads the Google pre-trained model, trains the existing
     model on our corpus.
     :param corpus_fp: string - point to the filepath of the corpus
     :param model_fn: string - specify the save location and name of
@@ -225,7 +225,8 @@ def list_info(arr):
 
 
 def extract_words(sentences_list):
-    """ Passed a list of sentences this function extracts
+    """
+    Passed a list of sentences this function extracts
     a list of words and a set unique words, both of which
     are returned.
     """
