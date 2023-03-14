@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup as bs, BeautifulSoup
 import re
 from perform_set_expansion import read_words_from_file
 
-
 INTERVAL = 3600
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

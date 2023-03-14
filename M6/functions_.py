@@ -30,14 +30,22 @@ def save_model(model_, file_path):
     model_.save(file_path)
 
 
-def read_words_from_file(file_path):
+def read_words_from_file(file_path, encoding='utf-8-sig',
+                         rtype='set'):
     """
 
+    :param rtype:
+    :param encoding:
     :param file_path:
     :return:
     """
-    with open(file_path, 'r') as f:
-        words = set(f.read().splitlines())
+    with open(file_path, 'r', encoding=encoding) as f:
+        if rtype == 'set':
+            words = set(f.read().splitlines())
+        elif rtype == 'list':
+            words = f.read().splitlines()
+        else:
+            words = f.read().splitlines()
     return words
 
 
@@ -130,7 +138,7 @@ def expand_set(model_fp='google_w2v_weights/GoogleNews-'
     # The expanded entity set
     if out:
         list_info(expansion_arr)
-    write_words_to_file(f"{output_fn}.txt", expansion_arr)
+    write_words_to_file(f"{output_fn}", expansion_arr)
     return expansion_arr
 
 
