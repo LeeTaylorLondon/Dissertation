@@ -1,0 +1,7 @@
+* [-] Explore '/books_xml'
+    * [X] Parse format 1 (Sentences)
+    * [-] Parse format 2
+    * [-] Parse format 3
+    * [-] Parse format 4
+    * [-] Create an object that encapsulates
+            all formats together

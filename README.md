@@ -37,8 +37,8 @@ Next Steps (B):
     * [-] From the best reproduced project/method improve on their  
     mentioned stated weaknesses  
 
-Goals:  
-    * [-] Overall goal: 'Present a systematic or thorough lit. review.'  
+Goals (Overall):  
+    * [-] Overall goal: 'Present a systematic or thorough lit. review.'
 
     * [-] About my current lit. review take the best papers and find the  
       originals from somewhere else then reproduce only the best  
