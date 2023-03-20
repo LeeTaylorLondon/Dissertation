@@ -46,45 +46,64 @@ def main():
     """
     Sample text.
     """
-    # Load output
-    words = read_words_from_file("output_set_expansion/labelled/eset_mit_wiki_.txt",
-                                 rtype='list')
-    # # Debug output
-    # for word in words[:15]:
-    #     print(word)
-    # Label outputs
-    words_labelled = []
-    for word in words:
-        label = int(input(f"{word}: "))
-        words_labelled.append(f"{word}, {label}")
-    # Save labelling
-    write_words_to_file("output_set_expansion/"
-                        "eset_mit_wiki_labelled.txt",
-                        words_labelled)
+    # Iterate over each file in the 'model_weights' directory
+    for model_file in os.listdir("output_set_expansion/"
+                                 "unlabelled_2"):
+        # Create filepath string to model
+        model_fp = os.path.join(
+            "output_set_expansion/unlabelled_2/",
+            model_file
+        )
+        print(model_fp)
+
+        # Load output
+        words = read_words_from_file(model_fp,
+                                     rtype='list')
+
+        # Label outputs
+        words_labelled = []
+        for word in words[:120]:
+            try:
+                label = int(input(f"{word}: "))
+            except TypeError as e:
+                print(e)
+                label = -1
+                pass
+            words_labelled.append(f"{word}, {label}")
+
+        # Save labelling
+        write_words_to_file(f"output_set_expansion/"
+                            f"labelled/"
+                            f"{model_fp.split('/')[-1]}",
+                            words_labelled)
+
+    # Mark EOF
     pass
 
 
 if __name__ == '__main__':
-    # main()
+    main()
     # process_error()
 
-    y_pred = load_y()
-    y_true = [1 for _ in range(len(y_pred))]
-    # # Check if lengths are the same
-    # print(len(y_pred) == len(y_true))
-    # # >>> True
+    # y_pred = load_y()
+    # y_true = [1 for _ in range(len(y_pred))]
+    # # # Check if lengths are the same
+    # # print(len(y_pred) == len(y_true))
+    # # # >>> True
+    #
+    # # Calculate precision
+    # precision = precision_score(y_true, y_pred)
+    #
+    # # Calculate recall
+    # recall = recall_score(y_true, y_pred)
+    #
+    # # Calculate F1 score
+    # f1 = f1_score(y_true, y_pred)
+    #
+    # print("K@3")
+    # print("Recall: ", recall)
+    # print("Precision: ", precision)
+    # print("F1 Score: ", f1)
 
-    # Calculate precision
-    precision = precision_score(y_true, y_pred)
-
-    # Calculate recall
-    recall = recall_score(y_true, y_pred)
-
-    # Calculate F1 score
-    f1 = f1_score(y_true, y_pred)
-
-    print("K@3")
-    print("Recall: ", recall)
-    print("Precision: ", precision)
-    print("F1 Score: ", f1)
+    # Mark EOF
     pass

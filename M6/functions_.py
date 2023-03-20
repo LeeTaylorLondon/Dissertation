@@ -7,6 +7,7 @@ import numpy as np
 import pickle
 import string
 import gensim
+import os
 
 
 def train_model(corpus_):
