@@ -1,0 +1,581 @@
+﻿n ± 1, 2n ± 1, 4n ± 1, …
+Hubal, Marek (May 2019). "CPAP's sexy prime". primenumbers yahoo group. Retrieved 10 May 2019.
+In September 2010 Ken Davis announced a 1,004 digit quadruplet with p =23333 + 1582534968299.[10]
+Davis, Ken (January 2023). "sexy prime triplet". Prime Pages. Retrieved 24 January 2023.
+Kaiser, Peter (June 2019). "Let's find some large sexy prime pair (and, perhaps, a triplet)". Mersenne forum. Retrieved 18 August 2019.
+Andersen, Jens Kruse (May 2019). "Re: CPAP's sexy prime". primenumbers yahoo group. Retrieved 19 September 2019.
+In November 2005 the largest-known sexy prime quadruplet, found by Jens Kruse Andersen had 1,002 digits:
+^ Kaiser, Peter (May 2019). "sexy prime triplet". Mersenne forum. Retrieved 13 May 2019.
+p, p + 2 or p + 4, p + 6
+p + a·n, n = 0, 1, 2, 3, ...
+Triplet (p, p + 2 or p + 4, p + 6)
+The term "sexy prime" is a pun stemming from the Latin word for six: sex.
+^ Hubal, Marek (May 2019). "CPAP's sexy prime". primenumbers yahoo group. Retrieved 10 May 2019.
+Grime, James.Brady Haran (ed.). "Sexy Primes (and the only sexy prime quintuplet)". Numberphile. Archived from the original on 23 October 2018.
+^ Lamprecht, Gerd; Luhn, Norman (October 2019). "CPAP's sexy prime". primenumbers yahoo group. Retrieved 13 October 2019.
+In May 2019, Peter Kaiser improved this record to 6,031 digits:
+In June 2019 Peter Kaiser announced a 1,534 digit quadruplet with p = 19299420002127 × 25050 + 17233.[13]
+^ Davis, Ken (September 2010). "1004 sexy prime quadruplet". primenumbers yahoo group. Retrieved 2 September 2010.
+Norman Luhn & Gerd Lamprecht improved the record to 6,701 digits in October 2019:
+^ Davis, Ken. "Brillhart-Lehmer-Selfridge provable triplet Oct 2019". primenumbers yahoo group. Retrieved 2 October 2019.
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+p, p + 2, p + 6, p + 8
+In number theory,sexy primes are prime numbers that differ from each other by 6. For example, the numbers 5 and 11 are both sexy primes, because both are prime and 11 − 5 = 6.
+Serge Batalov improved the record to 15,004 digits in April 2022:
+2Types of groupings											Toggle Types of groupings subsection																					2.1Sexy prime pairs																											2.2Sexy prime triplets																											2.3Sexy prime quadruplets																											2.4Sexy prime quintuplets
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}D.H.J. Polymath (2014). "Variants of the Selberg sieve, and bounded intervals containing many primes". Research in the Mathematical Sciences. 1 (12). arXiv:1407.4897. doi:10.1186/s40687-014-0012-7. MR 3373710. S2CID 119699189.
+Andersen, Jens Kruse. "The largest known CPAP's". primerecords.dk. Retrieved 19 August 2019.
+The sexy primes (sequences OEIS: A023201 and OEIS: A046117 in OEIS) below 500 are:
+^ Batalov, S. "Let's find some large sexy prime pair[s]". mersenneforum.org. Retrieved 3 October 2019.
+Lamprecht, Gerd; Luhn, Norman (October 2019). "CPAP's sexy prime". primenumbers yahoo group. Retrieved 13 October 2019.
+Gerd Lamprecht improved the record to 6,116 digits in August 2019:
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+As used in this article, n# stands for the product 2 · 3 · 5 · 7 · … of all the primes ≤ n.
+As of April 2022[update], the largest-known pair of sexy primes was found by S. Batalov and has 51,934 digits. The primes are:
+Davis, Ken. "Brillhart-Lehmer-Selfridge provable triplet Oct 2019". primenumbers yahoo group. Retrieved 2 October 2019.
+^ Andersen, Jens Kruse (May 2019). "Re: CPAP's sexy prime". primenumbers yahoo group. Retrieved 19 September 2019.
+^ Kaiser, Peter (June 2019). "Let's find some large sexy prime pair (and, perhaps, a triplet)". Mersenne forum. Retrieved 18 August 2019.
+In January 2005 Ken Davis set a record for the largest-known sexy prime triplet with 5132 digits:
+^ Andersen, Jens Kruse. "The largest known CPAP's". primerecords.dk. Retrieved 19 August 2019.
+^ Batalov, Serge. "Consecutive primes arithmetic progression (d=6), Apr 2022". Primes.utm.edu.
+In May 2019 Marek Hubal announced a 1,138 digit quadruplet with p = 1567237911 × 2677# + 3301.[11][12]
+Batalov, Serge. "Consecutive primes arithmetic progression (d=6), Apr 2022". Primes.utm.edu.
+"Let's find some large sexy prime pair (and, perhaps, a triplet)"
+Sexy prime quadruplets (p, p+6, p+12, p+18) can only begin with primes ending in a 1 in their decimal representation (except for the quadruplet with p = 5). The sexy prime quadruplets below 1000 are (OEIS: A023271, OEIS: A046122, OEIS: A046123, OEIS: A046124):
+Andersen, Jens K. (November 2005). "Gigantic sexy and cousin primes". primenumbers yahoo group. Retrieved 27 January 2009.
+Kaiser, Peter (May 2019). "sexy prime triplet". Mersenne forum. Retrieved 13 May 2019.
+Batalov, S. "Let's find some large sexy prime pair[s]". mersenneforum.org. Retrieved 3 October 2019.
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}D.H.J. Polymath (2014). "Variants of the Selberg sieve, and bounded intervals containing many primes". Research in the Mathematical Sciences. 1 (12). arXiv:1407.4897. doi:10.1186/s40687-014-0012-7. MR 3373710. S2CID 119699189.
+Andersen, Jens Kruse. "The largest known CPAP's". primerecords.dk. Retrieved 13 October 2019.
+If p + 2 or p + 4 (where p is the lower prime) is also prime, then the sexy prime is part of a prime triplet. In August 2014 the Polymath group, seeking the proof of the twin prime conjecture, showed that if the generalized Elliott–Halberstam conjecture is proven, one can show the existence of infinitely many pairs of consecutive primes that differ by at most 6 and as such they are either twin, cousin or sexy primes.[1]
+^ Andersen, Jens K. (November 2005). "Gigantic sexy and cousin primes". primenumbers yahoo group. Retrieved 27 January 2009.
+Ken Davis further improved the record with a 6,180 digit Brillhart-Lehmer-Selfridge provable triplet in October 2019:
+In October 2019 Gerd Lamprecht and Norman Luhn announced a 3,025 digit quadruplet with p = 121152729080 × 7019#/1729 + 1.[14]
+^ Davis, Ken (January 2023). "sexy prime triplet". Prime Pages. Retrieved 24 January 2023.
+Davis, Ken (September 2010). "1004 sexy prime quadruplet". primenumbers yahoo group. Retrieved 2 September 2010.
+This page was last edited on 14 February 2023, at 03:44 (UTC).
+^ Andersen, Jens Kruse. "The largest known CPAP's". primerecords.dk. Retrieved 13 October 2019.
+Leng, Simon (2006). While My Guitar Gently Weeps: The Music of George Harrison. Milwaukee, WI: Hal Leonard. p. 151. ISBN 1-4234-0609-5.
+Various members of the Manson Family took the title of this song as a reference to Manson Family member Susan Atkins, who was nicknamed Sadie Mae Glutz, before the release of the "White Album".
+Lennon, Cynthia (1978). A Twist of Lennon. Avon. pp. 174–176.
+^ Kush Mody - Topic (22 August 2015), Sexy Sadie (feat. Anderson .Paak), retrieved 6 June 2017[dead YouTube link]
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"10 Classic Rock Songs You Didn't Know Were Diss Tracks". Society Of Rock.
+^ a b c Howlett, Kevin (2018). The Beatles (50th Anniversary Super Deluxe Version) (book). Apple Records.
+Webb, Robert (15 September 2006). "Story of the Song: 'Karma Police' Radiohead (1997)". The Independent. Retrieved 15 October 2008.
+"Everybody's Got Something to Hide Except Me and My Monkey"
+^ The Beatles Anthology. Chronicle Books. 2000. pp. 285–86. ISBN 0-8118-2684-8.
+Wenner, Jann (2000) [1971]. Lennon Remembers. Verso, W.W. Norton & Co. p. 27. ISBN 1-85984-376-X. Yeah, there was a big hullabaloo about him trying to rape Mia Farrow or trying to get off with Mia Farrow and a few other women, things like that.
+Miles, Barry (1997). Paul McCartney: Many Years From Now. New York: Henry Holt and Company. p. 429. ISBN 0-8050-5249-6.
+In a 1968 Rolling Stone interview, Lennon complimented the song "I've Been Good to You" by Smokey Robinson and the Miracles.[15] The Miracles song begins with the lines "Look what you've done/You made a fool out of someone",[16] echoing "Sexy Sadie"'s "What have you done?/You made a fool of everyone".[17][15]
+^ Spitz, Bob (2005). The Beatles: The Biography. Boston: Little, Brown. pp. 755–757. ISBN 0-316-80352-9.
+"The White Album Recovered 2 - Track Listing | Mojo Cover CDS - the Definitive List"
+The song's instrumental fadeout was originally 39 seconds longer and featured a breakdown based around the middle eight. This was edited out before mixing.
+^ Lennon, Cynthia (1978). A Twist of Lennon. Avon. pp. 174–176.
+^ Stolworthy, Jacob (22 November 2018). "The Beatles' White Album tracks, ranked – from Blackbird to While My Guitar Gently Weeps". The Independent. Retrieved 27 March 2019.
+The main piano riff in the Radiohead song "Karma Police" is inspired by the piano part in this song.[24]
+All We Are Saying: The Last Major Interview with John Lennon and Yoko Ono
+Inglis, Ian (2010). The Words and Music of George Harrison. Santa Barbara, CA: Praeger. p. 45. ISBN 978-0-313-37532-3.
+^ The Beatles (2000). The Beatles Anthology. San Francisco: Chronicle Books. pp. 285–286. ISBN 0-8118-2684-8.
+^ Leng, Simon (2006). While My Guitar Gently Weeps: The Music of George Harrison. Milwaukee, WI: Hal Leonard. p. 151. ISBN 1-4234-0609-5.
+George Harrison also referenced the song in "Simply Shady", from his 1974 album Dark Horse.[22][23]
+Cott, Jonathan (23 November 1968). "The Rolling Stone Interview: John Lennon". Rolling Stone. San Francisco: Straight Arrow Publishers, Inc. Retrieved 10 July 2014.
+^ ""I've Been Good to You" lyrics". Retrieved 10 July 2014.
+Stolworthy, Jacob (22 November 2018). "The Beatles' White Album tracks, ranked – from Blackbird to While My Guitar Gently Weeps". The Independent. Retrieved 27 March 2019.
+"The White Album Recovered 2 - Track Listing | Mojo Cover CDS - the Definitive List". Archived from the original on 2 February 2014. Retrieved 26 January 2014.
+The song inspired one of the characters' names in the 2007 Beatles-themed film Across the Universe, Sadie (played by Dana Fuchs).
+^ Miles, Barry (1997). Paul McCartney: Many Years From Now. New York: Henry Holt and Company. p. 429. ISBN 0-8050-5249-6.
+"Sexy Sadie" is a song by the English rock group the Beatles from their 1968 double album The Beatles (also known as "the White Album"). The song was written by John Lennon in India and credited to Lennon–McCartney. Lennon wrote the song during the Beatles' stay in India in response to the Maharishi Mahesh Yogi's alleged sexual advance on actress Mia Farrow. The song has been considered an early example of a diss track.[1][2][3][4]
+"The 10 most vicious songs about real people - BBC Music". Bbc.co.uk. 28 April 2016. Retrieved 11 April 2021.
+"The 10 most vicious songs about real people - BBC Music"
+^ "The White Album Recovered 2 - Track Listing | Mojo Cover CDS - the Definitive List". Archived from the original on 2 February 2014. Retrieved 26 January 2014.
+^ "The 10 most vicious songs about real people - BBC Music". Bbc.co.uk. 28 April 2016. Retrieved 11 April 2021.
+Paul McCartney – backing vocals, piano, bass guitar, Hammond organ,[21] guitar[21]
+The band Sexy Sadie took their name from this song.
+^ a b Cott, Jonathan (23 November 1968). "The Rolling Stone Interview: John Lennon". Rolling Stone. San Francisco: Straight Arrow Publishers, Inc. Retrieved 10 July 2014.
+Time Out London Music (24 May 2018). "The 50 Best Beatles songs". Time Out London. Archived from the original on 15 December 2018. Retrieved 31 July 2019.
+^ "93 – 'Sexy Sadie'". 100 Greatest Beatles Songs. Rolling Stone.
+Everybody's Got Something to Hide Except Me and My Monkey
+"Welkom | Stubru". Archived from the original on 21 January 2022. Retrieved 15 August 2020.
+""I've Been Good to You" lyrics". Retrieved 10 July 2014.
+^ Wenner, Jann (2000) [1971]. Lennon Remembers. Verso, W.W. Norton & Co. p. 27. ISBN 1-85984-376-X. Yeah, there was a big hullabaloo about him trying to rape Mia Farrow or trying to get off with Mia Farrow and a few other women, things like that.
+Kush Mody - Topic (22 August 2015), Sexy Sadie (feat. Anderson .Paak), retrieved 6 June 2017[dead YouTube link]
+Lewisohn, Mark (1988). The Complete Beatles Recording Sessions: The Official Story of the Abbey Road Years 1962-1970. Hamlyn. p. 144. ISBN 0-681-03189-1.
+The Beatles (2000). The Beatles Anthology. San Francisco: Chronicle Books. pp. 285–286. ISBN 0-8118-2684-8.
+"The Beatles' White Album tracks, ranked – from Blackbird to While My Guitar Gently Weeps"
+Brown, Peter; Gaines, Steven (2002). The Love You Make: An Insider's Story of The Beatles. New York: New American Library. p. 264. ISBN 0-451-20735-1.
+George Harrison commented years later, "Now, historically, there's the story that something went on that shouldn't have done – but nothing did." In 1992, Harrison gave a benefit concert for the Maharishi-associated Natural Law Party, and later apologised for the way the Maharishi had been treated by saying, "We were very young" and "It's probably in the history books that Maharishi 'tried to attack Mia Farrow' – but it's bullshit, total bullshit." Cynthia Lennon wrote in 2006 that she "hated leaving on a note of discord and mistrust, when we had enjoyed so much kindness from the Maharishi". Asked if he forgave the Beatles, the Maharishi replied, "I could never be upset with angels." McCartney took his daughter, Stella, to visit the Maharishi in the Netherlands in 2007, which renewed their friendship.[20]
+After returning from India, Lennon scratched the lyrics into a piece of wood, with the original title "Maharishi". According to Harrison's account in the director's cut of the Beatles Anthology (1995) documentary, the recorded version changed only after Harrison insisted that if the song was used its name must be changed and persuaded Lennon to retitle it "Sexy Sadie". Derek Taylor remembered Lennon's scratching the wood in the Apple offices. The wood ended up in Maureen Starkey's possession and was ultimately sold to a Beatles collector.[citation needed]
+Lennon originally wanted to title the song "Maharishi",[5] but changed the title to "Sexy Sadie" at George Harrison's request. Lennon was disillusioned after Maharishi Mahesh Yogi had allegedly made a sexual advance on Mia Farrow,[6] who was attending a course the Maharishi was teaching at his ashram in Rishikesh, India. Harrison, Paul McCartney, and Cynthia Lennon later said that they thought the story, which had come from Alexis Mardas, also known as "Magic Alex", had been fabricated.[7][8][9][10][11] Lennon once said of the song: "That was inspired by Maharishi. I wrote it when we had our bags packed and were leaving. It was the last piece I wrote before I left India. I just called him 'Sexy Sadie' instead of (sings) 'Maharishi what have you done, you made a fool...' I was just using the situation to write a song, rather calculatingly but also to express what I felt. I was leaving the Maharishi with a bad taste. You know, it seems that my partings are always not as nice as I'd like them to be."[12] He told Rolling Stone that when the Maharishi asked why he was leaving, he replied, "Well, if you're so cosmic, you'll know why."[13]
+Spitz, Bob (2005). The Beatles: The Biography. Boston: Little, Brown. pp. 755–757. ISBN 0-316-80352-9.
+^ Sheff, David (2000). All We Are Saying: The Last Major Interview with John Lennon and Yoko Ono. Macmillan. p. 191. ISBN 0-312-25464-4.
+According to Mark Lewisohn's The Complete Beatles Recording Sessions (1988), an early outtake of "Sexy Sadie" features Lennon demonstrating the song's original working lyrics to the rest of the band: "Maharishi, you little twat/Who the fuck do you think you are?/Who the fuck do you think you are?/Oh, you cunt."[14]
+Harry, Bill (1985). The Book of Beatle Lists. Javelin. ISBN 0-7137-1521-9.
+^ Lewisohn, Mark (1988). The Complete Beatles Recording Sessions: The Official Story of the Abbey Road Years 1962-1970. Hamlyn. p. 144. ISBN 0-681-03189-1.
+The Beatles Anthology. Chronicle Books. 2000. pp. 285–86. ISBN 0-8118-2684-8.
+Coinciding with the 50th anniversary of its release, Jacob Stolworthy of The Independent listed "Sexy Sadie" at number six in his ranking of the White Album's 30 tracks. He wrote of the song: "To this day 'Sexy Sadie' drips with bittersweet disdain, its moody final minute—inspiring Radiohead's 'Karma Police' and 'Four Out of Five' by Arctic Monkeys—managing to spring hairs on end, however many times you've heard it."[18] Also in 2018, Time Out London ranked "Sexy Sadie" at number 14 on its list of the best Beatles songs.[19]
+When Mojo released The White Album Recovered in 2008, part of a continuing series of CDs of Beatles albums covered track-by-track by modern artists, the track was covered by Rachel Unthank and the Winterset. The disc also featured a bonus track of the same song performed by Paul Weller.[25]
+"10 Classic Rock Songs You Didn't Know Were Diss Tracks"
+^ "Welkom | Stubru". Archived from the original on 21 January 2022. Retrieved 15 August 2020.
+Sheff, David (2000). All We Are Saying: The Last Major Interview with John Lennon and Yoko Ono. Macmillan. p. 191. ISBN 0-312-25464-4.
+This page was last edited on 16 March 2023, at 17:01 (UTC).
+^ Harry, Bill (1985). The Book of Beatle Lists. Javelin. ISBN 0-7137-1521-9.
+^ Inglis, Ian (2010). The Words and Music of George Harrison. Santa Barbara, CA: Praeger. p. 45. ISBN 978-0-313-37532-3.
+^ Webb, Robert (15 September 2006). "Story of the Song: 'Karma Police' Radiohead (1997)". The Independent. Retrieved 15 October 2008.
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"10 Classic Rock Songs You Didn't Know Were Diss Tracks". Society Of Rock.
+^ Time Out London Music (24 May 2018). "The 50 Best Beatles songs". Time Out London. Archived from the original on 15 December 2018. Retrieved 31 July 2019.
+Ringo Starr referenced the song in the lyrics of both "Devil Woman" (from 1973's Ringo) and "Drumming Is My Madness" (from 1981's Stop and Smell the Roses).
+^ Brown, Peter; Gaines, Steven (2002). The Love You Make: An Insider's Story of The Beatles. New York: New American Library. p. 264. ISBN 0-451-20735-1.
+Howlett, Kevin (2018). The Beatles (50th Anniversary Super Deluxe Version) (book). Apple Records.
+"93 – 'Sexy Sadie'". 100 Greatest Beatles Songs. Rolling Stone.
+The song was also covered by Anderson .Paak on multi-instrumentalist and producer Kush Mody's first album Creature Comforts (2014).[26]
+n ± 1, 2n ± 1, 4n ± 1, …
+Hardy, G. E. & Subbarao, M. V. (2002), "A modified problem of Pillai and some related questions", American Mathematical Monthly, 109 (6): 554–559, doi:10.2307/2695445, JSTOR 2695445.
+Quadruplet (p, p + 2, p + 6, p + 8)
+Pillai primes are named after the mathematician Subbayya Sivasankaranarayana Pillai, who studied these numbers. Their infinitude has been proved several times, by Subbarao, Erdős, and Hardy & Subbarao.
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, p + 2 or p + 4, p + 6
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+Triplet (p, p + 2 or p + 4, p + 6)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+p + a·n, n = 0, 1, 2, 3, ...
+p, p + 2, p + 6, p + 8
+In number theory, a Pillai prime is a prime number p for which there is an integer n > 0 such that the factorial of n is one less than a multiple of the prime, but the prime is not one more than a multiple of n. To put it algebraically, n!≡−1modp{\displaystyle n!\equiv -1\mod p} but p≢1modn{\displaystyle p\not \equiv 1\mod n}. The first few Pillai primes are
+This number theory-related article is a stub. You can help Wikipedia by expanding it.
+This page was last edited on 11 February 2023, at 01:28 (UTC).
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Guy, R. K. (2004), Unsolved Problems in Number Theory (3rd ed.), New York: Springer-Verlag, p. A2, ISBN 0-387-20860-7.
+n ± 1, 2n ± 1, 4n ± 1, …
+The only two known Wolstenholme primes are 16843 and 2124679 (sequence A088164in the OEIS). There are no other Wolstenholme primes less than 109.[2]
+It is conjectured that infinitely many Wolstenholme primes exist. It is conjectured that the number of Wolstenholme primes ≤ x is about ln ln x, where ln denotes the natural logarithm. For each prime p ≥ 5, the Wolstenholme quotient is defined as
+Krattenthaler, C.; Rivoal, T. (2009), "On the integrality of the Taylor coefficients of mirror maps, II", Communications in Number Theory and Physics, 3 (3): 555–591, arXiv:0907.2578, Bibcode:2009arXiv0907.2578K, doi:10.4310/CNTP.2009.v3.n3.a5
+Wolstenholme, J. (1862), "On Certain Properties of Prime Numbers", The Quarterly Journal of Pure and Applied Mathematics, 5: 35–39
+Interest in these primes first arose due to their connection with Fermat's Last Theorem. Wolstenholme primes are also related to other special classes of numbers, studied in the hope to be able to generalize a proof for the truth of the theorem to all positive integers greater than two.
+1Definition											Toggle Definition subsection																					1.1Definition via binomial coefficients																											1.2Definition via Bernoulli numbers																											1.3Definition via irregular pairs																											1.4Definition via harmonic numbers
+A Wolstenholme prime is a prime number p > 7 that satisfies the congruence
+p, p + 2 or p + 4, p + 6
+p + a·n, n = 0, 1, 2, 3, ...
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Weisstein, Eric W. "Wolstenholme prime". MathWorld.
+Triplet (p, p + 2 or p + 4, p + 6)
+A Wolstenholme prime is a prime p such that (p, p–3) is an irregular pair.[7][8]
+A Wolstenholme prime is a prime p that divides the numerator of the Bernoulli number Bp−3.[4][5][6] The Wolstenholme primes therefore form a subset of the irregular primes.
+^ Cook, J. D. "Binomial coefficients". Retrieved 21 December 2010.
+McIntosh, R. J. (1995), "On the converse of Wolstenholme's Theorem" (PDF), Acta Arithmetica, 71 (4): 381–389, doi:10.4064/aa-71-4-381-389 Archived 8 November 2010 at WebCite
+Wolstenholme primes: primes p such that binomial(2p-1,p-1) == 1 (mod p^4)
+McIntosh, R. J. Wolstenholme Search Status as of March 2004 e-mail to Paul Zimmermann
+Selfridge and Pollack published the first Wolstenholme prime in Selfridge & Pollack 1964, p. 97 (see McIntosh & Roettger 2007, p. 2092).
+This page was last edited on 15 August 2022, at 09:14 (UTC).
+Zhao, J. (2008), "Wolstenholme Type Theorem for Multiple Harmonic Sums" (PDF), International Journal of Number Theory, 4 (1): 73–106, doi:10.1142/s1793042108001146 Archived 27 November 2010 at WebCite
+Are there any Wolstenholme primes other than 16843 and 2124679?
+Zhao, J. (2007), "Bernoulli numbers, Wolstenholme's theorem, and p5 variations of Lucas' theorem" (PDF), Journal of Number Theory, 123: 18–26, doi:10.1016/j.jnt.2006.05.005, S2CID 937685Archived 12 November 2010 at WebCite
+Babbage, C. (1819), "Demonstration of a theorem relating to prime numbers", The Edinburgh Philosophical Journal, 1: 46–49
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+p, p + 2, p + 6, p + 8
+Wolstenholme prime can be defined in a number of equivalent ways.
+Clearly, p is a Wolstenholme prime if and only if Wp ≡ 0 (mod p). Empirically one may assume that the remainders of Wp modulo p are uniformly distributed in the set {0, 1, ..., p–1}. By this reasoning, the probability that the remainder takes on a particular value (e.g., 0) is about 1/p.[5]
+Clarke, F.; Jones, C. (2004), "A Congruence for Factorials" (PDF), Bulletin of the London Mathematical Society, 36 (4): 553–558, doi:10.1112/S0024609304003194 Archived 2 January 2011 at WebCite
+i.e. the numerator of the harmonic number Hp−1{\displaystyle H_{p-1}} expressed in lowest terms is divisible by p3.
+"Bernoulli numbers, Wolstenholme's theorem, and p5 variations of Lucas' theorem"
+^ Selfridge and Pollack published the first Wolstenholme prime in Selfridge & Pollack 1964, p. 97 (see McIntosh & Roettger 2007, p. 2092).
+Buhler, J.; Crandall, R.; Ernvall, R.; Metsänkylä, T. (1993), "Irregular Primes and Cyclotomic Invariants to Four Million" (PDF), Mathematics of Computation, 61 (203): 151–153, Bibcode:1993MaCom..61..151B, doi:10.2307/2152942, JSTOR 2152942 Archived 12 November 2010 at WebCite
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+McIntosh, R. J.; Roettger, E. L. (2007), "A search for Fibonacci-Wieferich and Wolstenholme primes" (PDF), Mathematics of Computation, 76 (260): 2087–2094, Bibcode:2007MaCom..76.2087M, doi:10.1090/S0025-5718-07-01955-2 Archived 10 December 2010 at WebCite
+The search for Wolstenholme primes began in the 1960s and continued over the following decades, with the latest results published in 2007. The first Wolstenholme prime 16843 was found in 1964, although it was not explicitly reported at that time.[10] The 1964 discovery was later independently confirmed in the 1970s. This remained the only known example of such a prime for almost 20 years, until the discovery announcement of the second Wolstenholme prime 2124679 in 1993.[11] Up to 1.2×107, no further Wolstenholme primes were found.[12] This was later extended to 2×108 by McIntosh in 1995 [5] and Trevisan & Weber were able to reach 2.5×108.[13] The latest result as of 2007 is that there are only those two Wolstenholme primes up to 109.[14]
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Weisstein, Eric W. "Wolstenholme prime". MathWorld.
+Conrad, K. The p-adic Growth of Harmonic Sums interesting observation involving the two Wolstenholme primes
+Ribenboim, P. (2004), "Chapter 2. How to Recognize Whether a Natural Number is a Prime", The Little Book of Bigger Primes, New York: Springer-Verlag New York, Inc., ISBN 978-0-387-20169-6 Archived 24 November 2010 at WebCite
+Trevisan, V.; Weber, K. E. (2001), "Testing the Converse of Wolstenholme's Theorem" (PDF), Matemática Contemporânea, 21: 275–286 Archived 10 December 2010 at WebCite
+In number theory, a Wolstenholme prime is a special type of prime number satisfying a stronger version of Wolstenholme's theorem. Wolstenholme's theorem is a congruence relation satisfied by all prime numbers greater than 3. Wolstenholme primes are named after mathematician Joseph Wolstenholme, who first described this theorem in the 19th century.
+Selfridge, J. L.; Pollack, B. W. (1964), "Fermat's last theorem is true for any exponent up to 25,000", Notices of the American Mathematical Society, 11: 97
+where the expression in left-hand side denotes a binomial coefficient.[3]In comparison, Wolstenholme's theorem states that for every prime p > 3 the following congruence holds:
+Wolstenholme primes were first described by McIntosh in McIntosh 1995, p. 385
+^ Wolstenholme primes were first described by McIntosh in McIntosh 1995, p. 385
+Johnson, W. (1975), "Irregular Primes and Cyclotomic Invariants" (PDF), Mathematics of Computation, 29 (129): 113–120, doi:10.2307/2005468, JSTOR 2005468 Archived 20 December 2010 at WebCite
+(p, p+2, p+8, p+12, p+14, p+18, p+20){\displaystyle (p,\ p+2,\ p+8,\ p+12,\ p+14,\ p+18,\ p+20)}
+^ Norman Luhn, "The big database of 'Smallest Prime k-tuplets' ".
+n ± 1, 2n ± 1, 4n ± 1, …
+Chris Caldwell, "The Prime Glossary: k-tuple" at The Prime Pages.
+Several of the shortest k-tuples are known by other common names:
+^ Chris Caldwell, "The Prime Glossary: k-tuple" at The Prime Pages.
+Tóth, László (2019), "On The Asymptotic Density Of Prime k-tuples and a Conjecture of Hardy and Littlewood" (PDF), Computational Methods in Science and Technology, 25 (3), arXiv:1910.02636, doi:10.12921/cmst.2019.0000033, S2CID 203836016.
+p, p + 2 or p + 4, p + 6
+p + a·n, n = 0, 1, 2, 3, ...
+A prime constellation is sometimes referred to as a prime k-tuplet, but some authors reserve that term for instances that are not part of longer k-tuplets.
+Triplet (p, p + 2 or p + 4, p + 6)
+(p, p+4, p+6, p+10, p+12){\displaystyle (p,\ p+4,\ p+6,\ p+10,\ p+12)}
+The Skewes numbers for prime k-tuples are an extension of the definition of Skewes' number to prime k-tuples based on the first Hardy-Littlewood conjecture (Tóth (2019)). Let P=(p, p+i1, p+i2, … , p+ik){\displaystyle P=(p,\ p+i_{1},\ p+i_{2},\ \dots \ ,\ p+i_{k})} denote a prime k-tuple, πP(x){\displaystyle \pi _{P}(x)} the number of primes p below x such that p, p+i1, p+i2, … , p+ik{\displaystyle p,\ p+i_{1},\ p+i_{2},\ \dots \ ,\ p+i_{k}} are all prime, let liP⁡(x)=∫2xdt(ln⁡t)k+1{\textstyle \operatorname {li} _{P}(x)=\int _{2}^{x}{\frac {dt}{(\ln t)^{k+1}}}} and let CP{\displaystyle C_{P}} denote its Hardy-Littlewood constant (see first Hardy-Littlewood conjecture). Then the first prime p that violates the Hardy-Littlewood inequality for the k-tuple P, i.e., such that
+(p, p+2, p+6, p+8, p+12){\displaystyle (p,\ p+2,\ p+6,\ p+8,\ p+12)}
+It is conjectured that every admissible k-tuple matches infinitely many positions in the sequence of prime numbers. However, there is no admissible tuple for which this has been proven except the 1-tuple (0). Nevertheless, by Yitang Zhang's famous proof of 2013 it follows that there exists at least one 2-tuple which matches infinitely many positions; subsequent work showed that some 2-tuple exists with values differing by 246 or less that matches infinitely many positions.[2]
+A prime k-tuple of the form (0, n, 2n, 3n, …, (k − 1)n) is said to be a prime arithmetic progression.In order for such a k-tuple to meet the admissibility test, n must be a multiple of the primorial of k.[5]
+p, p+i1, p+i2, … , p+ik{\displaystyle p,\ p+i_{1},\ p+i_{2},\ \dots \ ,\ p+i_{k}}
+Norman Luhn, "The big database of 'Smallest Prime k-tuplets' ".
+(p, p+2, p+6, p+8, p+12, p+18, p+20, p+26){\displaystyle (p,\ p+2,\ p+6,\ p+8,\ p+12,\ p+18,\ p+20,\ p+26)}
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+p, p + 2, p + 6, p + 8
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Bounded gaps between primes". PolyMath. Retrieved 2019-04-22.
+The diameter d as a function of k is sequence A008407 in the OEIS.
+(p, p+2, p+6, p+12, p+14, p+20, p+24, p+26){\displaystyle (p,\ p+2,\ p+6,\ p+12,\ p+14,\ p+20,\ p+24,\ p+26)}
+Wolf, Marek (2011), "The Skewes number for twin primes: counting sign changes of π2(x) − C2Li2(x)" (PDF), Computational Methods in Science and Technology, 17: 87–92, doi:10.12921/cmst.2011.17.01.87-92, S2CID 59578795.
+Although (0, 2, 4) is not admissible it does produce the single set of primes, (3, 5, 7).
+P=(p, p+i1, p+i2, … , p+ik){\displaystyle P=(p,\ p+i_{1},\ p+i_{2},\ \dots \ ,\ p+i_{k})}
+(if such a prime exists) is the Skewes number for P.
+The Skewes number (if it exists) for sexy primes (p,p+6){\displaystyle (p,\;p+6)} is still unknown.
+"The Skewes number for twin primes: counting sign changes of π2(x) − C2Li2(x)"
+(p, p+6, p+8, p+14, p+18, p+20, p+24, p+26){\displaystyle (p,\ p+6,\ p+8,\ p+14,\ p+18,\ p+20,\ p+24,\ p+26)}
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+(p, p+4, p+6, p+10, p+12, p+16){\displaystyle (p,\ p+4,\ p+6,\ p+10,\ p+12,\ p+16)}
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Bounded gaps between primes". PolyMath. Retrieved 2019-04-22.
+In order for a k-tuple to have infinitely many positions at which all of its values are prime, there cannot exist a prime p such that the tuple includes every different possible value modulo p. For, if such a prime p existed, then no matter which value of n was chosen, one of the values formed by adding n to the tuple would be divisible by p, so there could only be finitely many prime placements (only those including p itself).For example, the numbers in a k-tuple cannot take on all three values 0, 1, and 2 modulo 3; otherwise the resulting numbers would always include a multiple of 3 and therefore could not all be prime unless one of the numbers is 3 itself. A k-tuple that satisfies this condition (i.e. it does not have a p for which it covers all the different values modulo p) is called admissible.
+OEIS sequence OEIS: A257124 covers 7-tuples (prime septuplets) and contains an overview of related sequences, e.g. the three sequences corresponding to the three admissible 8-tuples (prime octuplets), and the union of all 8-tuples. The first term in these sequences corresponds to the first prime in the smallest prime constellation shown below.
+The diameter of a k-tuple is the difference of its largest and smallest elements. An admissible prime k-tuple with the smallest possible diameter d (among all admissible k-tuples) is a prime constellation. For all n ≥ k this will always produce consecutive primes.[3] (Recall that all n are integers for which the values (n + a, n + b, …) are prime.)
+The table below shows the currently known Skewes numbers for prime k-tuples:
+This page was last edited on 2 January 2023, at 20:24 (UTC).
+The first Hardy–Littlewood conjecture predicts that the asymptotic frequency of any prime constellation can be calculated.While the conjecture is unproven it is considered likely to be true. If that is the case, it implies that the second Hardy–Littlewood conjecture, in contrast, is false.
+"On The Asymptotic Density Of Prime k-tuples and a Conjecture of Hardy and Littlewood"
+(p, p+2, p+6, p+8, p+12, p+18, p+20){\displaystyle (p,\ p+2,\ p+6,\ p+8,\ p+12,\ p+18,\ p+20)}
+In number theory, a prime k-tuple is a finite collection of values representing a repeatable pattern of differences between prime numbers.For a k-tuple (a, b, …), the positions where the k-tuple matches a pattern in the prime numbers are given by the set of integers n such that all of the values (n + a, n + b, …) are prime. Typically the first value in the k-tuple is 0 and the rest are distinct positive even numbers.[1]
+Some inadmissible k-tuples have more than one all-prime solution. This cannot happen for a k-tuple that includes all values modulo 3, so to have this property a k-tuple must cover all values modulo a larger prime, implying that there are at least five numbers in the tuple. The shortest inadmissible tuple with more than one solution is the 5-tuple (0, 2, 8, 14, 26), which has two solutions: (3, 5, 11, 17, 29) and (5, 7, 13, 19, 31), where all values mod 5 are included in both cases.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Bayless, Jonathan; Klyve, Dominic; Oliveira e Silva, Tomás (2013), "New bounds and computations on prime-indexed primes", Integers, 13: A43:1–A43:21, MR 3097157
+n ± 1, 2n ± 1, 4n ± 1, …
+p + a·n, n = 0, 1, 2, 3, ...
+p, p + 2 or p + 4, p + 6
+Broughan, Kevin A.; Barnett, A. Ross (2009), "On the subsequence of primes having prime subscripts", Journal of Integer Sequences, 12, article 09.2.3.
+Triplet (p, p + 2 or p + 4, p + 6)
+This page was last edited on 27 January 2023, at 22:50 (UTC).
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+This number theory-related article is a stub. You can help Wikipedia by expanding it.
+A variation on this theme is the sequence of prime numbers with palindromic prime indices, beginning with
+p, p + 2, p + 6, p + 8
+That is, if p(n) denotes the nth prime number, the numbers in this sequence are those of the form p(p(n)).
+Dressler, Robert E.; Parker, S. Thomas (1975), "Primes with a prime subscript", Journal of the ACM, 22 (3): 380–381, doi:10.1145/321892.321900, MR 0376599.
+A Russian programming contest problem related to the work of Dressler and Parker
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+One can also define "higher-order" primeness much the same way and obtain analogous sequences of primes (Fernandez 1999).
+Dressler & Parker (1975) used a computer-aided proof (based on calculations involving the subset sum problem) to show that every integer greater than 96 may be represented as a sum of distinct super-prime numbers. Their proof relies on a result resembling Bertrand's postulate, stating that (after the larger gap between super-primes 5 and 11) each super-prime number is less than twice its predecessor in the sequence.
+Super-prime numbers, also known as higher-order primes or prime-indexed primes (PIPs), are the subsequence of prime numbers that occupy prime-numbered positions within the sequence of all prime numbers.
+super-primes up to x.This can be used to show that the set of all super-primes is small.
+n ± 1, 2n ± 1, 4n ± 1, …
+This page was last edited on 16 March 2023, at 21:28 (UTC).
+Triplet (p, p + 2 or p + 4, p + 6)
+^ a b c d e f g h i
+Caldwell, Chris. "The Largest Known Prime by Year: A Brief History". Prime Pages. Retrieved January 20, 2016.
+"GIMPS Discovers 47th Mersenne Prime, 242,643,801-1 is newest, but not the largest, known Mersenne Prime"
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+"GIMPS by Mersenne Research, Inc". mersenne.org. Retrieved 21 November 2022.
+The last non-Mersenne to be the largest known prime, was 391,581 ⋅ 2216,193 − 1; see also The Largest Known Prime by year: A Brief History by Caldwell.
+^ "Best Inventions of 2008 - 29. The 46th Mersenne Prime". Time. Time Inc. October 29, 2008. Archived from the original on November 2, 2008. Retrieved January 17, 2012.
+"Perfect Numbers". Penn State University. Retrieved 6 October 2019. An interesting side note is about the binary representations of those numbers...
+The record is currently held by 282,589,933 − 1 with 24,862,048 digits, found by GIMPS in December 2018.[1] The first and last 120 digits of its value are shown below:
+^ "PrimeGrid's Seventeen or Bust Subproject" (PDF). primegrid.com. PrimeGrid. Retrieved 30 September 2017.
+A list of the 5,000 largest known primes is maintained by Chris K. Caldwell,[16] of which the twenty largest are listed below.[17]
+^ "GIMPS Discovers 44th Mersenne Prime, 232,582,657-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 11 September 2006. Retrieved 29 September 2017.
+"PrimePage Primes: 7 x 2^20267500 + 1". Retrieved 25 July 2022.
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+A prime number is a positive integer, excluding 1, with no divisors other than 1 and itself. According to Euclid's theorem there are infinitely many prime numbers, so there is no largest prime.
+GIMPS also offers a US$3,000 research discovery award for participants who discover a new Mersenne prime of less than 100 million digits.[10]
+^ "GIMPS Discovers 47th Mersenne Prime, 242,643,801-1 is newest, but not the largest, known Mersenne Prime". mersenne.org. Great Internet Mersenne Prime Search. 12 April 2009. Retrieved 29 September 2017.
+"The Prime Database: The List of Largest Known Primes Home Page"
+"GIMPS Discovers 40th Mersenne Prime, 220,996,011-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 2 December 2003. Retrieved 29 September 2017.
+^ Caldwell, Chris. "The largest known primes – Database Search Output". Prime Pages. Retrieved June 3, 2018.
+"GIMPS Discovers 45th and 46th Mersenne Primes, 243,112,609-1 is now the Largest Known Prime"
+"GIMPS Discovers 42nd Mersenne Prime, 225,964,951-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 27 February 2005. Retrieved 29 September 2017.
+Caldwell, Chris. "The largest known primes – Database Search Output". Prime Pages. Retrieved June 3, 2018.
+Many of the largest known primes are Mersenne primes, numbers that are one less than a power of two, because they can utilise a specialised primality test that is faster than the general one. As of November 2022[update], the eight largest known primes are Mersenne primes.[2] The last seventeen record primes were Mersenne primes.[3][4] The binary representation of any Mersenne prime is composed of all ones, since the binary form of 2k − 1 is simply k ones.[5]
+^ a b c d e f g h i Landon Curt Noll, Large Prime Number Found by SGI/Cray Supercomputer.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"GIMPS Project Discovers Largest Known Prime Number: 282,589,933-1". Mersenne Research, Inc. 21 December 2018. Retrieved 21 December 2018.
+"PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 7 October 2022.
+"PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 7 November 2018.
+Quadruplet (p, p + 2, p + 6, p + 8)
+^ "PrimeGrid's Prime Sierpinski Problem" (PDF). primegrid.com. PrimeGrid. Retrieved 29 September 2017.
+"GIMPS Discovers 41st Mersenne Prime, 224,036,583-1 is now the Largest Known Prime"
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+^ a b Caldwell, Chris. "The Largest Known Prime by Year: A Brief History". Prime Pages. Retrieved January 20, 2016.
+"PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 30 September 2017.
+The following table lists the progression of the largest known prime number in ascending order.[3] Here Mp = 2p − 1 is the Mersenne number with exponent p. The longest record-holder known was M19 = 524,287, which was the largest known prime for 144 years. No records are known prior to 1456.
+^ "The Top Twenty: Largest Known Primes". Chris K. Caldwell. Retrieved 3 January 2018.
+"Best Inventions of 2008 - 29. The 46th Mersenne Prime"
+^ J. Miller, Large Prime Numbers. Nature 168, 838 (1951).
+"The Prime Database: The List of Largest Known Primes Home Page". primes.utm.edu/primes. Chris K. Caldwell. Retrieved 30 September 2017.
+There are several prizes offered by the Electronic Frontier Foundation (EFF) for record primes.[7] A prime with one million digits was found in 1999, earning the discoverer a US$50,000 prize.[8] In 2008, a ten-million digit prime won a US$100,000 prize and a Cooperative Computing Award from the EFF.[7] Time called this prime the 29th top invention of 2008.[9]
+"GIMPS Discovers 44th Mersenne Prime, 232,582,657-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 11 September 2006. Retrieved 29 September 2017.
+"GIMPS Project Discovers Largest Known Prime Number: 274,207,281-1". mersenne.org. Great Internet Mersenne Prime Search. Retrieved 29 September 2017.
+^ "GIMPS Discovers 40th Mersenne Prime, 220,996,011-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 2 December 2003. Retrieved 29 September 2017.
+"GIMPS Discovers 48th Mersenne Prime, 257,885,161-1 is now the Largest Known Prime"
+The largest known prime number (as of February 2023[update]) is 282,589,933 − 1, a number which has 24,862,048 digits when written in base 10. It was found via a computer volunteered by Patrick Laroche of the Great Internet Mersenne Prime Search (GIMPS) in 2018.[1]
+"GIMPS Discovers 41st Mersenne Prime, 224,036,583-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 28 May 2004. Retrieved 29 September 2017.
+p + a·n, n = 0, 1, 2, 3, ...
+p, p + 2 or p + 4, p + 6
+"GIMPS Discovers 43rd Mersenne Prime, 230,402,457-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 24 December 2005. Retrieved 29 September 2017.
+Edward Sandifer, C. (19 November 2014). How Euler Did Even More. ISBN 9780883855843.
+^ "GIMPS Discovers 48th Mersenne Prime, 257,885,161-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 5 February 2013. Retrieved 29 September 2017.
+^ a b c .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"GIMPS Project Discovers Largest Known Prime Number: 282,589,933-1". Mersenne Research, Inc. 21 December 2018. Retrieved 21 December 2018.
+^ "PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 7 October 2022.
+Both of these primes were discovered through the Great Internet Mersenne Prime Search (GIMPS), which coordinates long-range search efforts among tens of thousands of computers and thousands of volunteers. The $50,000 prize went to the discoverer and the $100,000 prize went to GIMPS.GIMPS will split the US$150,000 prize for the first prime of over 100 million digits with the winning participant. A further prize is offered for the first prime with at least one billion digits.[7]
+^ Letters to the Editor. The American Mathematical Monthly 97, no. 3 (1990), p. 214. Accessed May 22, 2020.
+^ The last non-Mersenne to be the largest known prime, was 391,581 ⋅ 2216,193 − 1; see also The Largest Known Prime by year: A Brief History by Caldwell.
+p, p + 2, p + 6, p + 8
+GIMPS found the fifteen latest records (all of them Mersenne primes) on ordinary computers operated by participants around the world.
+"The Top Twenty: Largest Known Primes". Chris K. Caldwell. Retrieved 3 January 2018.
+^ a b c "Record 12-Million-Digit Prime Number Nets $100,000 Prize". Electronic Frontier Foundation. Electronic Frontier Foundation. October 14, 2009. Retrieved November 26, 2011.
+^ Edward Sandifer, C. (19 November 2014). How Euler Did Even More. ISBN 9780883855843.
+"GIMPS Discovers 47th Mersenne Prime, 242,643,801-1 is newest, but not the largest, known Mersenne Prime". mersenne.org. Great Internet Mersenne Prime Search. 12 April 2009. Retrieved 29 September 2017.
+Landon Curt Noll, Large Prime Number Found by SGI/Cray Supercomputer.
+^ "PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 7 November 2018.
+"PrimeGrid's Prime Sierpinski Problem" (PDF). primegrid.com. PrimeGrid. Retrieved 29 September 2017.
+"GIMPS Discovers 48th Mersenne Prime, 257,885,161-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 5 February 2013. Retrieved 29 September 2017.
+^ "GIMPS Project Discovers Largest Known Prime Number: 277,232,917-1". mersenne.org. Great Internet Mersenne Prime Search. Retrieved 3 January 2018.
+^ "PrimeGrid's Extended Sierpinski Problem Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 28 December 2021.
+^ "PrimePage Primes: 7 x 2^20267500 + 1". Retrieved 25 July 2022.
+^ "GIMPS Discovers 41st Mersenne Prime, 224,036,583-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 28 May 2004. Retrieved 29 September 2017.
+"Record 12-Million-Digit Prime Number Nets $100,000 Prize". Electronic Frontier Foundation. Electronic Frontier Foundation. October 14, 2009. Retrieved November 26, 2011.
+^ "GIMPS Discovers 43rd Mersenne Prime, 230,402,457-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 24 December 2005. Retrieved 29 September 2017.
+"GIMPS Project Discovers Largest Known Prime Number: 277,232,917-1". mersenne.org. Great Internet Mersenne Prime Search. Retrieved 3 January 2018.
+Letters to the Editor. The American Mathematical Monthly 97, no. 3 (1990), p. 214. Accessed May 22, 2020.
+"Best Inventions of 2008 - 29. The 46th Mersenne Prime". Time. Time Inc. October 29, 2008. Archived from the original on November 2, 2008. Retrieved January 17, 2012.
+"PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 17 September 2022.
+^ "GIMPS Project Discovers Largest Known Prime Number: 274,207,281-1". mersenne.org. Great Internet Mersenne Prime Search. Retrieved 29 September 2017.
+^ "GIMPS Discovers 42nd Mersenne Prime, 225,964,951-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 27 February 2005. Retrieved 29 September 2017.
+^ "The Prime Database: The List of Largest Known Primes Home Page". primes.utm.edu/primes. Chris K. Caldwell. Retrieved 30 September 2017.
+"PrimeGrid's Seventeen or Bust Subproject" (PDF). primegrid.com. PrimeGrid. Retrieved 30 September 2017.
+"GIMPS Discovers 40th Mersenne Prime, 220,996,011-1 is now the Largest Known Prime"
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+^ a b "GIMPS Discovers 45th and 46th Mersenne Primes, 243,112,609-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 15 September 2008. Retrieved 29 September 2017.
+^ "GIMPS by Mersenne Research, Inc". mersenne.org. Retrieved 21 November 2022.
+"GIMPS Discovers 44th Mersenne Prime, 232,582,657-1 is now the Largest Known Prime"
+^ "PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 30 September 2017.
+^ "Perfect Numbers". Penn State University. Retrieved 6 October 2019. An interesting side note is about the binary representations of those numbers...
+"PrimeGrid's Extended Sierpinski Problem Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 28 December 2021.
+"GIMPS Discovers 43rd Mersenne Prime, 230,402,457-1 is now the Largest Known Prime"
+"GIMPS Discovers 42nd Mersenne Prime, 225,964,951-1 is now the Largest Known Prime"
+^ "PrimeGrid's Generalized Fermat Prime Search" (PDF). primegrid.com. PrimeGrid. Retrieved 17 September 2022.
+"GIMPS Discovers 45th and 46th Mersenne Primes, 243,112,609-1 is now the Largest Known Prime". mersenne.org. Great Internet Mersenne Prime Search. 15 September 2008. Retrieved 29 September 2017.
+The Cramér–Shanks–Granville ratio is the ratio of gn / (ln(pn))2.[7] If we discard anomalously high values of the ratio for the primes 2, 3, 7, then the greatest known value of this ratio is 0.9206386 for the prime 1693182318746371. Other record terms can be found at OEIS: A111943.
+Polignac's conjecture states that every positive even number k occurs as a prime gap infinitely often. The case k = 2 is the twin prime conjecture. The conjecture has not yet been proven or disproven for any specific value of k, but Zhang Yitang's result proves that it is true for at least one (currently unknown) value of k which is smaller than70,000,000; as discussed above, this upper bound has been improved to 246.
+n ± 1, 2n ± 1, 4n ± 1, …
+^ Granville, Andrew (1995). "Harald Cramér and the distribution of prime numbers" (PDF). Scandinavian Actuarial Journal. 1: 12–28. CiteSeerX 10.1.1.129.6847. doi:10.1080/03461238.1995.10413946. Archived (PDF) from the original on September 23, 2015. Retrieved March 2, 2016..
+^ Granville, Andrew (1995). "Unexpected irregularities in the distribution of prime numbers" (PDF). Proceedings of the International Congress of Mathematicians. 1: 388–399. doi:10.1007/978-3-0348-9078-6_32. ISBN 978-3-0348-9897-3. Archived (PDF) from the original on May 7, 2016. Retrieved March 2, 2016..
+Triplet (p, p + 2 or p + 4, p + 6)
+For any integer n, the factorial n! is the product of all positive integers up to and including n. Then in the sequence
+Hoheisel (1930) was the first to show[14] that there exists a constant θ < 1 such that
+Ford, Kevin; Green, Ben; Konyagin, Sergei; Maynard, James; Tao, Terence (2018). "Long gaps between primes". J. Amer. Math. Soc. 31 (1): 65–105. arXiv:1412.5029. doi:10.1090/jams/876. MR 3718451. S2CID 14487001.
+The prime number theorem, proven in 1896, says that the average length of the gap between a prime p and the next prime will asymptotically approach ln(p), the natural logarithm of p, for sufficiently large primes. The actual length of the gap might be much more or less than this. However, one can deduce from the prime number theorem an upper bound on the length of prime gaps:
+Pintz, János (September 2007). "Cramér vs. Cramér: On Cramér's probabilistic model for primes". Functiones et Approximatio Commentarii Mathematici. 37 (2): 232–471. doi:10.7169/facm/1229619660.
+Hoheisel, G. (1930). "Primzahlprobleme in der Analysis". Sitzunsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 33: 3–11. JFM 56.0172.02.
+Cramér, Harald (1936). "On the order of magnitude of the difference between consecutive prime numbers". Acta Arithmetica. 2: 23–46. doi:10.4064/aa-2-1-23-46.
+π(x+xθ)−π(x)∼xθlog⁡(x) as x→∞,{\displaystyle \pi (x+x^{\theta })-\pi (x)\sim {\frac {x^{\theta }}{\log(x)}}{\text{ as }}x\to \infty ,}
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+^ "Top 20 overall merits". Prime gap list. Archived from the original on July 27, 2022. Retrieved September 29, 2022.
+^ a b c Nicely, Thomas R. (2019). "NEW PRIME GAP OF MAXIMUM KNOWN MERIT". faculty.lynchburg.edu. Archived from the original on April 30, 2021. Retrieved September 29, 2022.
+Andersen, Jens Kruse. "The Top-20 Prime Gaps". Archived from the original on December 27, 2019. Retrieved June 13, 2014.
+Tchudakoff, N. G. (1936). "On the difference between two neighboring prime numbers". Mat. Sb. 1: 799–814. Zbl 0016.15502.
+In the spirit of Erdős' original prize, Terence Tao offered US$10,000 for a proof that c may be taken arbitrarily large in this inequality.[31]
+Paul Erdős offered a $10,000 prize for a proof or disproof that the constant c in the above inequality may be taken arbitrarily large.[27] This was proved to be correct in 2014 by Ford–Green–Konyagin–Tao and, independently, James Maynard.[28][29]
+Zhang, Yitang (2014). "Bounded gaps between primes". Annals of Mathematics. 179 (3): 1121–1174. doi:10.4007/annals.2014.179.3.7. MR 3171761.
+Even better results are possible under the Riemann hypothesis. Harald Cramér proved[33] that the Riemann hypothesis implies the gap gn satisfies
+A. E. Ingham, On the difference between consecutive primes, Quart. J. Math. (Oxford) 8, pp. 255-266 (1937).
+However, prime gaps of n numbers can occur at numbers much smaller than n!. For instance, the first prime gap of size larger than 14 occurs between the primes 523 and 541, while 15! is the vastly larger number 1307674368000.
+^ Pintz, János (September 2007). "Cramér vs. Cramér: On Cramér's probabilistic model for primes". Functiones et Approximatio Commentarii Mathematici. 37 (2): 232–471. doi:10.7169/facm/1229619660.
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+meaning that there are infinitely many gaps that do not exceed 70 million.[22] A Polymath Project collaborative effort to optimize Zhang's bound managed to lower the bound to 4680 on July 20, 2013.[23] In November 2013, James Maynard introduced a new refinement of the GPY sieve, allowing him to reduce the bound to 600 and show that for any m there exists a bounded interval with an infinite number of translations each of which containing m prime numbers.[24] Using Maynard's ideas, the Polymath project improved the bound to 246;[23][25] assuming the Elliott–Halberstam conjecture and its generalized form, the bound has been reduced to 12 and 6, respectively.[23]
+The first, smallest, and only odd prime gap is the gap of size 1 between 2, the only even prime number, and 3, the first odd prime. All other prime gaps are even. There is only one pair of consecutive gaps having length 2: the gaps g2 and g3 between the primes 3, 5, and 7.
+gn>c log⁡n log⁡log⁡n log⁡log⁡log⁡log⁡n(log⁡log⁡log⁡n)2{\displaystyle g_{n}>{\frac {c\ \log n\ \log \log n\ \log \log \log \log n}{(\log \log \log n)^{2}}}}
+^ a b c "Bounded gaps between primes". Polymath. Archived from the original on February 28, 2020. Retrieved July 21, 2013.
+^ D.H.J. Polymath (2014). "Variants of the Selberg sieve, and bounded intervals containing many primes". Research in the Mathematical Sciences. 1 (12). arXiv:1407.4897. doi:10.1186/s40687-014-0012-7. MR 3373710. S2CID 119699189.
+In 1931, Erik Westzynthius proved that maximal prime gaps grow more than logarithmically. That is,[2]
+A result, due to Baker, Harman and Pintz in 2001, shows that θ may be taken to be 0.525.[20]
+^ Cheng, Yuan-You Fu-Rui (2010). "Explicit estimate on primes between consecutive cubes". Rocky Mt. J. Math. 40: 117–153. arXiv:0810.2113. doi:10.1216/rmj-2010-40-1-117. S2CID 15502941. Zbl 1201.11111.
+Ingham, A. E. (1937). "On the difference between consecutive primes". Quarterly Journal of Mathematics. Oxford Series. 8 (1): 255–266. Bibcode:1937QJMat...8..255I. doi:10.1093/qmath/os-8.1.255.
+Maynard, James (2016). "Large gaps between primes". Ann. of Math. 183 (3): 915–933. arXiv:1408.5110. doi:10.4007/annals.2016.183.3.3. MR 3488739. S2CID 119247836.
+Here, O refers to the big O notation,ζ denotes the Riemann zeta function and π the prime-counting function. Knowing that any c > 1/6 is admissible, one obtains that θ may be any number greater than 5/8.
+One can also deduce that the gaps get arbitrarily smaller in proportion to the primes: the quotient
+^ Nicely, Thomas R. (2019). "TABLES OF PRIME GAPS". faculty.lynchburg.edu. Archived from the original on November 27, 2020. Retrieved September 29, 2022.
+^ Ingham, A. E. (1937). "On the difference between consecutive primes". Quarterly Journal of Mathematics. Oxford Series. 8 (1): 255–266. Bibcode:1937QJMat...8..255I. doi:10.1093/qmath/os-8.1.255.
+Guy, Richard K. (2004). Unsolved problems in number theory (3rd ed.). Springer-Verlag. ISBN 978-0-387-20860-2. Zbl 1058.11001.
+Soundararajan, Kannan (2007). "Small gaps between prime numbers: the work of Goldston-Pintz-Yıldırım". Bull. Am. Math. Soc. New Series. 44 (1): 1–18. arXiv:math/0605696. doi:10.1090/s0273-0979-06-01142-6. S2CID 119611838. Zbl 1193.11086.
+The gap gn between the nth and (n + 1)st prime numbers is an example of an arithmetic function. In this context it is usually denoted dn and called the prime difference function.[39] The function is neither multiplicative nor additive.
+lim infn→∞gnlog⁡pn(log⁡log⁡pn)2<∞.{\displaystyle \liminf _{n\to \infty }{\frac {g_{n}}{{\sqrt {\log p_{n}}}(\log \log p_{n})^{2}}}<\infty .}
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+^ Huxley, M. N. (1972). "On the Difference between Consecutive Primes". Inventiones Mathematicae. 15 (2): 164–170. Bibcode:1971InMat..15..164H. doi:10.1007/BF01418933. S2CID 121217000.
+In 1938, Robert Rankin proved the existence of a constant c > 0 such that the inequality
+^ MJansen (April 16, 2022). "Announcement at Mersenneforum.org". Mersenneforum.org. Archived from the original on September 29, 2022.
+Westzynthius, E. (1931), "Über die Verteilung der Zahlen die zu den n ersten Primzahlen teilerfremd sind", Commentationes Physico-Mathematicae Helsingsfors (in German), 5: 1–37, JFM 57.0186.02, Zbl 0003.24601.
+^ Pintz, J. (1997). "Very large gaps between consecutive primes". J. Number Theory. 63 (2): 286–301. doi:10.1006/jnth.1997.2081.
+Ford, Kevin; Green, Ben; Konyagin, Sergei; Tao, Terence (2016). "Large gaps between consecutive prime numbers". Ann. of Math. 183 (3): 935–974. arXiv:1408.4505. doi:10.4007/annals.2016.183.3.4. MR 3488740. S2CID 16336889.
+Hoheisel obtained the possible value 32999/33000 for θ. This was improved to 249/250 by Heilbronn,[15] and to θ = 3/4 + ε, for any ε > 0, by Chudakov.[16]
+^ Ford, Kevin; Maynard, James; Tao, Terence (October 13, 2015). "Chains of large gaps between primes". arXiv:1511.04468 [math.NT].
+Granville, Andrew (1995). "Harald Cramér and the distribution of prime numbers" (PDF). Scandinavian Actuarial Journal. 1: 12–28. CiteSeerX 10.1.1.129.6847. doi:10.1080/03461238.1995.10413946. Archived (PDF) from the original on September 23, 2015. Retrieved March 2, 2016..
+^ Ford, Kevin; Green, Ben; Konyagin, Sergei; Maynard, James; Tao, Terence (2018). "Long gaps between primes". J. Amer. Math. Soc. 31 (1): 65–105. arXiv:1412.5029. doi:10.1090/jams/876. MR 3718451. S2CID 14487001.
+Baker, R. C.; Harman, G.; Pintz, J. (2001). "The difference between consecutive primes, II". Proceedings of the London Mathematical Society. 83 (3): 532–562. doi:10.1112/plms/83.3.532. S2CID 8964027.
+Lower bounds for chains of primes have also been determined.[32]
+Kourbatov, A.; Wolf, M. (2020). "On the first occurrences of gaps between primes in a residue class". Journal of Integer Sequences. 23 (Article 20.9.3). arXiv:2002.02115. MR 4167933. S2CID 211043720. Zbl 1444.11191. Archived from the original on April 12, 2021. Retrieved December 3, 2020.
+As of September 2022[update], the largest known merit value and first with merit over 40, as discovered by the Gapcoin network, is 41.93878373 with the 87-digit prime 293703234068022590158723766104419463425709075574811762098588798217895728858676728143227. The prime gap between it and the next prime is 8350.[7][8]
+^ Baker, R. C.; Harman, G.; Pintz, J. (2001). "The difference between consecutive primes, II". Proceedings of the London Mathematical Society. 83 (3): 532–562. doi:10.1112/plms/83.3.532. S2CID 8964027.
+Goldston, Daniel A.; Pintz, János; Yıldırım, Cem Yalçin (2010). "Primes in Tuples II". Acta Mathematica. 204 (1): 1–47. arXiv:0710.2728. doi:10.1007/s11511-010-0044-9. S2CID 7993099.
+^ Maynard, James (2016). "Large gaps between primes". Ann. of Math. 183 (3): 915–933. arXiv:1408.5110. doi:10.4007/annals.2016.183.3.3. MR 3488739. S2CID 119247836.
+^ Sinha, Nilotpal Kanti (2010). "On a new property of primes that leads to a generalization of Cramer's conjecture". arXiv:1010.1399 [math.NT]..
+^ Tchudakoff, N. G. (1936). "On the difference between two neighboring prime numbers". Mat. Sb. 1: 799–814. Zbl 0016.15502.
+A major improvement is due to Ingham,[17] who showed that for some positive constant c,
+"On the order of magnitude of the difference between consecutive prime numbers"
+gn>c log⁡n log⁡log⁡n log⁡log⁡log⁡log⁡nlog⁡log⁡log⁡n{\displaystyle g_{n}>{\frac {c\ \log n\ \log \log n\ \log \log \log \log n}{\log \log \log n}}}
+MJansen (April 16, 2022). "Announcement at Mersenneforum.org". Mersenneforum.org. Archived from the original on September 29, 2022.
+^ A. E. Ingham, On the difference between consecutive primes, Quart. J. Math. (Oxford) 8, pp. 255-266 (1937).
+Armin Shams, Re-extending Chebyshev's theorem about Bertrand's conjecture, does not involve an 'arbitrarily big' constant as some other reported results.
+For every ϵ>0{\displaystyle \epsilon >0}, there is a number N{\displaystyle N} such that for alln>N{\displaystyle n>N}
+Granville, Andrew (1995). "Unexpected irregularities in the distribution of prime numbers" (PDF). Proceedings of the International Congress of Mathematicians. 1: 388–399. doi:10.1007/978-3-0348-9078-6_32. ISBN 978-3-0348-9897-3. Archived (PDF) from the original on May 7, 2016. Retrieved March 2, 2016..
+^ Kourbatov, A.; Wolf, M. (2020). "On the first occurrences of gaps between primes in a residue class". Journal of Integer Sequences. 23 (Article 20.9.3). arXiv:2002.02115. MR 4167933. S2CID 211043720. Zbl 1444.11191. Archived from the original on April 12, 2021. Retrieved December 3, 2020.
+p, p + 2 or p + 4, p + 6
+^ Hoheisel, G. (1930). "Primzahlprobleme in der Analysis". Sitzunsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin. 33: 3–11. JFM 56.0172.02.
+Bertrand's postulate, proven in 1852, states that there is always a prime number between k and 2k, so in particular pn +1 < 2pn, which means gn < pn .
+This is a slight strengthening of Legendre's conjecture that between successive square numbers there is always a prime.
+p + a·n, n = 0, 1, 2, 3, ...
+^ Cramér, Harald (1936). "On the order of magnitude of the difference between consecutive prime numbers". Acta Arithmetica. 2: 23–46. doi:10.4064/aa-2-1-23-46.
+Some Results of Computational Research in Prime Numbers -- Computational Number Theory
+^ Goldston, Daniel A.; Pintz, János; Yıldırım, Cem Yalçin (2010). "Primes in Tuples II". Acta Mathematica. 204 (1): 1–47. arXiv:0710.2728. doi:10.1007/s11511-010-0044-9. S2CID 7993099.
+The average gap between primes increases as the natural logarithm of these primes, and therefore the ratio of the prime gap to the primes involved decreases (and is asymptotically zero).This is a consequence of the prime number theorem. From a heuristic view, we expect the probability that the ratio of the length of the gap to the natural logarithm is greater than or equal to a fixed positive number k to be e−k; consequently the ratio can be arbitrarily large. Indeed, the ratio of the gap to the number of digits of the integers involved does increase without bound.This is a consequence of a result by Westzynthius.[2]
+^ Tao, Terence (December 16, 2014). "Long gaps between primes / What's new". Archived from the original on June 9, 2019. Retrieved August 29, 2019.
+"Record prime gap info". ntheory.org. Archived from the original on October 13, 2016. Retrieved September 29, 2022.
+"Bounded gaps between primes". Polymath. Archived from the original on February 28, 2020. Retrieved July 21, 2013.
+p, p + 2, p + 6, p + 8
+Andersen, Jens Kruse (March 8, 2013). "A megagap with merit 25.9". primerecords.dk. Archived from the original on December 25, 2019. Retrieved September 29, 2022.
+Cheng, Yuan-You Fu-Rui (2010). "Explicit estimate on primes between consecutive cubes". Rocky Mt. J. Math. 40: 117–153. arXiv:0810.2113. doi:10.1216/rmj-2010-40-1-117. S2CID 15502941. Zbl 1201.11111.
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Ares, Saul; Castro, Mario (February 1, 2006). "Hidden structure in the randomness of the prime number sequence?". Physica A: Statistical Mechanics and Its Applications. 360 (2): 285–296. arXiv:cond-mat/0310148. doi:10.1016/j.physa.2005.06.066. S2CID 16678116.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Ares, Saul; Castro, Mario (February 1, 2006). "Hidden structure in the randomness of the prime number sequence?". Physica A: Statistical Mechanics and Its Applications. 360 (2): 285–296. arXiv:cond-mat/0310148. doi:10.1016/j.physa.2005.06.066. S2CID 16678116.
+Sinha, Nilotpal Kanti (2010). "On a new property of primes that leads to a generalization of Cramer's conjecture". arXiv:1010.1399 [math.NT]..
+Huxley in 1972 showed that one may choose θ = 7/12 = 0.58(3).[19]
+An immediate consequence of Ingham's result is that there is always a prime number between n3 and (n + 1)3, if n is sufficiently large.[18] The Lindelöf hypothesis would imply that Ingham's formula holds for c any positive number: but even this would not be enough to imply that there is a prime number between n2 and (n + 1)2 for n sufficiently large (see Legendre's conjecture). To verify this, a stronger result such as Cramér's conjecture would be needed.
+Mihăilescu, Preda (June 2014). "On some conjectures in additive number theory" (PDF). Newsletter of the European Mathematical Society (92): 13–16. doi:10.4171/NEWS. hdl:2117/17085. ISSN 1027-488X.
+Usually the ratio of gnln⁡(pn){\textstyle {\frac {g_{n}}{\ln(p_{n})}}} is called the merit of the gap gn. As of April 2022[update], the largest known prime gap with identified probable prime gap ends has length 7186572, with 208095-digit probable primes and merit M = 14.9985, found by Michiel Jansen using a sieve program developed by J. K. Andersen.[3][4] The largest known prime gap with identified proven primes as gap ends has length 1113106 and merit 25.90, with 18662-digit primes found by P. Cami, M. Jansen and J. K. Andersen.[5][6]
+^ Ford, Kevin; Green, Ben; Konyagin, Sergei; Tao, Terence (2016). "Large gaps between consecutive prime numbers". Ann. of Math. 183 (3): 935–974. arXiv:1408.4505. doi:10.4007/annals.2016.183.3.4. MR 3488740. S2CID 16336889.
+^ Heilbronn, H. A. (1933). "Über den Primzahlsatz von Herrn Hoheisel". Mathematische Zeitschrift. 36 (1): 394–423. doi:10.1007/BF01188631. JFM 59.0947.01. S2CID 123216472.
+Meanwhile, Oppermann's conjecture is weaker than Cramér's conjecture. The expected gap size with Oppermann's conjecture is on the order of
+"Top 20 overall merits". Prime gap list. Archived from the original on July 27, 2022. Retrieved September 29, 2022.
+Maynard, James (2015). "Small gaps between primes". Annals of Mathematics. 181 (1): 383–413. arXiv:1311.4600. doi:10.4007/annals.2015.181.1.7. MR 3272929. S2CID 55175056.
+By the definition of gn every prime can be written as
+In 2005, Daniel Goldston, János Pintz and Cem Yıldırım proved that
+^ Andersen, Jens Kruse. "The Top-20 Prime Gaps". Archived from the original on December 27, 2019. Retrieved June 13, 2014.
+We have g1 = 1, g2 = g3 = 2, and g4 = 4. The sequence (gn) of prime gaps has been extensively studied; however, many questions and conjectures remain unanswered.
+Nicely, Thomas R. (2019). "NEW MAXIMAL PRIME GAPS OF 1530 AND 1550". faculty.lynchburg.edu. Archived from the original on April 30, 2021. Retrieved September 29, 2022.
+^ Erdős, Paul; Bollobás, Béla; Thomason, Andrew, eds. (1997). Combinatorics, Geometry and Probability: A Tribute to Paul Erdös. Cambridge University Press. p. 1. ISBN 9780521584722. Archived from the original on September 29, 2022. Retrieved September 29, 2022.
+^ Maynard, James (2015). "Small gaps between primes". Annals of Mathematics. 181 (1): 383–413. arXiv:1311.4600. doi:10.4007/annals.2015.181.1.7. MR 3272929. S2CID 55175056.
+gn4.{\displaystyle g_{n}4.}
+Nicely, Thomas R. (2019). "TABLES OF PRIME GAPS". faculty.lynchburg.edu. Archived from the original on November 27, 2020. Retrieved September 29, 2022.
+We say that gn is a maximal gap, if gm < gn for all m < n.As of August 2018[update] the largest known maximal prime gap has length 1550, found by Bertil Nyman. It is the 80th maximal gap, and it occurs after the prime 18361375334787046697.[12] Other record (maximal) gap sizes can be found in OEIS: A005250, with the corresponding primes pn in OEIS: A002386, andthe values of n in OEIS: A005669. The sequence of maximal gaps up to the nth prime is conjectured to have about 2ln⁡n{\displaystyle 2\ln n} terms[13] (see table below).
+As a result, under Oppermann's conjecture there exists m{\displaystyle m} (probably m=30{\displaystyle m=30}) for which every natural number n>m{\displaystyle n>m} satisfies gn<pn.{\displaystyle g_{n}<{\sqrt {p_{n}}}.}
+D.H.J. Polymath (2014). "Variants of the Selberg sieve, and bounded intervals containing many primes". Research in the Mathematical Sciences. 1 (12). arXiv:1407.4897. doi:10.1186/s40687-014-0012-7. MR 3373710. S2CID 119699189.
+"On the first occurrences of gaps between primes in a residue class"
+Firoozbakht's conjecture states that pn1/n{\displaystyle p_{n}^{1/n}\!} (where pn{\displaystyle p_{n}} is the nth prime) is a strictly decreasing function of n, i.e.,
+^ a b Westzynthius, E. (1931), "Über die Verteilung der Zahlen die zu den n ersten Primzahlen teilerfremd sind", Commentationes Physico-Mathematicae Helsingsfors (in German), 5: 1–37, JFM 57.0186.02, Zbl 0003.24601.
+^ "Record prime gap info". ntheory.org. Archived from the original on October 13, 2016. Retrieved September 29, 2022.
+This page was last edited on 21 February 2023, at 08:36 (UTC).
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+Ford, Kevin; Maynard, James; Tao, Terence (October 13, 2015). "Chains of large gaps between primes". arXiv:1511.04468 [math.NT].
+Heilbronn, H. A. (1933). "Über den Primzahlsatz von Herrn Hoheisel". Mathematische Zeitschrift. 36 (1): 394–423. doi:10.1007/BF01188631. JFM 59.0947.01. S2CID 123216472.
+using the big O notation. (In fact this result needs only the weaker Lindelöf hypothesis, if one can tolerate an infinitesimally larger exponent.[34])Later, he conjectured that the gaps are even smaller. Roughly speaking, Cramér's conjecture states that
+^ Zhang, Yitang (2014). "Bounded gaps between primes". Annals of Mathematics. 179 (3): 1121–1174. doi:10.4007/annals.2014.179.3.7. MR 3171761.
+^ mart_r (July 14, 2022). "Verification Announcement at Mersenneforum.org". Mersenneforum.org. Archived from the original on July 27, 2022.
+Andrew Granville, Primes in Intervals of Bounded Length; overview of the results obtained so far up to and including James Maynard's work of November 2013.
+If this conjecture is true, then the function gn=pn+1−pn{\displaystyle g_{n}=p_{n+1}-p_{n}} satisfies gn4.{\displaystyle g_{n}4.}[35] It implies a strong form of Cramér's conjecture but is inconsistent with the heuristics of Granville and Pintz[36][37][38] which suggest that gn>2−εeγ(log⁡pn)2{\displaystyle g_{n}>{\frac {2-\varepsilon }{e^{\gamma }}}(\log p_{n})^{2}} infinitely often for any ε>0,{\displaystyle \varepsilon >0,} where γ{\displaystyle \gamma } denotes the Euler–Mascheroni constant.
+^ Nicely, Thomas R. (2019). "NEW MAXIMAL PRIME GAPS OF 1530 AND 1550". faculty.lynchburg.edu. Archived from the original on April 30, 2021. Retrieved September 29, 2022.
+Nicely, Thomas R. (2019). "NEW PRIME GAP OF MAXIMUM KNOWN MERIT". faculty.lynchburg.edu. Archived from the original on April 30, 2021. Retrieved September 29, 2022.
+A prime gap is the difference between two successive prime numbers. The n-th prime gap, denoted gn or g(pn) is the difference between the (n + 1)-st and the n-th prime numbers, i.e.
+Huxley, M. N. (1972). "On the Difference between Consecutive Primes". Inventiones Mathematicae. 15 (2): 164–170. Bibcode:1971InMat..15..164H. doi:10.1007/BF01418933. S2CID 121217000.
+Tao, Terence (December 16, 2014). "Long gaps between primes / What's new". Archived from the original on June 9, 2019. Retrieved August 29, 2019.
+^ Andersen, Jens Kruse (March 8, 2013). "A megagap with merit 25.9". primerecords.dk. Archived from the original on December 25, 2019. Retrieved September 29, 2022.
+Pintz, J. (1997). "Very large gaps between consecutive primes". J. Number Theory. 63 (2): 286–301. doi:10.1006/jnth.1997.2081.
+Andrica's conjecture, which is a weaker conjecture than Oppermann's, states that[39]
+holds for infinitely many values of n, improving the results of Westzynthius and Paul Erdős.He later showed that one can take any constant c < eγ, where γ is the Euler–Mascheroni constant. The value of the constant c was improved in 1997 to any value less than 2eγ.[26]
+Erdős, Paul; Bollobás, Béla; Thomason, Andrew, eds. (1997). Combinatorics, Geometry and Probability: A Tribute to Paul Erdös. Cambridge University Press. p. 1. ISBN 9780521584722. Archived from the original on September 29, 2022. Retrieved September 29, 2022.
+mart_r (July 14, 2022). "Verification Announcement at Mersenneforum.org". Mersenneforum.org. Archived from the original on July 27, 2022.
+3Further results											Toggle Further results subsection																					3.1Upper bounds																											3.2Lower bounds
+n ± 1, 2n ± 1, 4n ± 1, …
+^ Caldwell, Chris K. "The Top Twenty: Twin Primes". The Prime Pages. Retrieved 27 February 2017.
+There are infinitely many primes and therefore also infinitely many interprimes. The largest known interprime as of 2018[update] may be the 388342-digit n = 2996863034895 · 21290000, where n + 1 is the largest known twin prime.[2]
+p + a·n, n = 0, 1, 2, 3, ...
+p, p + 2 or p + 4, p + 6
+Triplet (p, p + 2 or p + 4, p + 6)
+Quadruplet (p, p + 2, p + 6, p + 8)
+Bi-twin chain (n ± 1, 2n ± 1, 4n ± 1, …)
+p, 2p ± 1, 4p ± 3, 8p ± 7, ...
+Cunningham (p, 2p ± 1, 4p ± 3, 8p ± 7, ...)
+This number theory-related article is a stub. You can help Wikipedia by expanding it.
+Balanced prime – a prime number with equal-sized prime gaps above and below it
+p, p + 2, p + 6, p + 8
+In mathematics, an interprime is the average of two consecutive odd primes.[1] For example, 9 is an interprime because it is the average of 7 and 11. The first interprimes are:
+Arithmetic progression (p + a·n, n = 0, 1, 2, 3, ...)
+Caldwell, Chris K. "The Top Twenty: Twin Primes". The Prime Pages. Retrieved 27 February 2017.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Weisstein, Eric W. "Interprime". mathworld.wolfram.com. Retrieved 2020-08-10.
+^ a b .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Weisstein, Eric W. "Interprime". mathworld.wolfram.com. Retrieved 2020-08-10.
+Interprimes cannot be prime themselves (otherwise the primes would not have been consecutive).[1]
+This page was last edited on 1 June 2022, at 04:56 (UTC).
+Kravets, David (February 8, 2011). "Sony lawyers now targeting anyone who posts PlayStation 3 hack". Ars Technica. Retrieved December 30, 2018.
+Pickover, Clifford A. "We are in Digits of Pi and Live Forever". Retrieved December 30, 2018.
+^ Patel, Nilay (January 12, 2011). "Sony follows up, officially sues Geohot and fail0verflow over PS3 jailbreak". Engadget. Retrieved December 30, 2018.
+"Sony lawyers now targeting anyone who posts PlayStation 3 hack"
+^ Greene, Thomas C. (March 19, 2001). "DVD descrambler encoded in 'illegal' prime number". The Register. Retrieved December 30, 2018. The question, of course, is whether an interesting number is illegal merely because it can be used to encode a contraband program.
+^ Hamilton, David P. "Banned Code Lives in Poetry and Song"
+This page was last edited on 26 February 2023, at 22:12 (UTC).
+Protests against the indictment of DeCSS author Jon Lech Johansen and legislation prohibiting publication of DeCSS code took many forms.[15] One of them was the representation of the illegal code in a form that had an intrinsically archivable quality. Since the bits making up a computer program also represent a number, the plan was for the number to have some special property that would make it archivable and publishable (one method was to print it on a T-shirt). The primality of a number is a fundamental property of number theory and is therefore not dependent on legal definitions of any particular jurisdiction.
+Wells, David (2011). "Illegal prime". Prime Numbers: The Most Mysterious Figures in Math. Wiley. pp. 126–127. ISBN 9781118045718.
+Hamilton, David P. "Banned Code Lives in Poetry and Song"
+Guadamuz, Andrés (2002). "Trouble with Prime Numbers: Decss, Dvd and the Protection of Proprietary Encryption Tools". Journal of Information, Law & Technology. 3. SSRN 569103.
+MacKinnon, Mark (June 4, 2012). "Banned in China on Tiananmen anniversary: 6, 4, 89 and 'today'". The Globe and Mail. Retrieved December 30, 2018.
+Skala, Matthew; Bonfield, Brett; Torpey, Mary Fran (February 15, 2008). "Mediating between law and technology requires vigilance and education, not a technical solution". Library Journal. Archived from the original on March 30, 2013.
+In 2017, far-right Slovak politician Marian Kotleba was criminally charged for donating 1,488 euros to a charity. The number is a reference to a white supremacist slogan and the Nazi salute.[18]
+^ S., Ben (March 1, 2011). "46-dc-ea-d3-17-fe-45-d8-09-23-eb-97-e4-95-64-10-d4-cd-b2-c2". Yale Law Tech. Retrieved December 30, 2018.
+^ MacKinnon, Mark (June 4, 2012). "Banned in China on Tiananmen anniversary: 6, 4, 89 and 'today'". The Globe and Mail. Retrieved December 30, 2018.
+Patel, Nilay (January 12, 2011). "Sony follows up, officially sues Geohot and fail0verflow over PS3 jailbreak". Engadget. Retrieved December 30, 2018.
+Miller, Ross (February 9, 2011). "PS3 'jailbreak code' retweeted by Sony's Kevin Butler, no punchline needed". Engadget. Retrieved December 30, 2018.
+An illegal number is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdiction. Any piece of digital information is representable as a number; consequently, if communicating a specific set of information is illegal in some way, then the number may be illegal as well.[1][2][3]
+^ "Prime Curios: 48565...29443 (1401-digits)". Retrieved December 30, 2018. What folks often forget is a program (any file actually) is a string of bits (binary digits)—so every program is a number.
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Carmody, Phil. "An Executable Prime Number?". Retrieved December 30, 2018. Maybe I was reading something between the lines that wasn't there, but if arbitrary programs could be expressed as primes, the immediate conclusion is that all programs, including ones some people wished didn't exist, can too. I.e. the so called 'circumvention devices' of which my previous prime exploit was an example.
+^ Meyer, Jeremy P. (September 5, 2012). "Greeley school ban on gang numbers includes Peyton Manning's 18". The Denver Post. Retrieved December 30, 2018.
+"A Great Debate: Is Computer Code Protected Speech?". November 30, 2001. Retrieved December 30, 2018.
+"Mediating between law and technology requires vigilance and education, not a technical solution"
+S., Ben (March 1, 2011). "46-dc-ea-d3-17-fe-45-d8-09-23-eb-97-e4-95-64-10-d4-cd-b2-c2". Yale Law Tech. Retrieved December 30, 2018.
+"AACS licensor complains of posted key". Lumen. April 17, 2007. Retrieved December 30, 2018. Illegal Offering of Processing Key to Circumvent AACS Copyright Protection [...] are thereby providing and offering to the public a technology, product, service, device, component, or part thereof that is primarily designed, produced, or marketed for the purpose of circumventing the technological protection measures afforded by AACS (hereafter, the "circumvention offering"). Doing so constitutes a violation of the anti-circumvention provisions of the Digital Millennium Copyright Act (the "DMCA")
+Any image file or an executable program[6] can be regarded as simply a very large binary number. In certain jurisdictions, there are images that are illegal to possess,[7] due to obscenity or secrecy/classified status, so the corresponding numbers could be illegal.[1][8]
+Touretzky, Dave. "Steganography Wing of the Gallery of CSS Descramblers". Carnegie Mellon University. Retrieved December 30, 2018.
+Ernesto (October 27, 2015). "Orwell Estate Sends Copyright Takedown Over the Number "1984"". TorrentFreak. Retrieved December 30, 2018.
+As a protest of the DeCSS case, many people created "steganographic" versions of the illegal information (i.e. hiding them in some form in flags etc.). Dave Touretzky of Carnegie Mellon University created a "Gallery of DeCSS descramblers". In the AACS encryption key controversy, a "free speech flag" was created. Some illegal numbers are so short that a simple flag (shown in the image) could be created by using triples of components as describing red-green-blue colors. The argument is that if short numbers can be made illegal, then anything based on those numbers also becomes illegal, like simple patterns of colors, etc.[citation needed]
+In 2011 Sony sued George Hotz and members of fail0verflow for jailbreaking the PlayStation 3.[9] Part of the lawsuit complaint was that they had published PS3 keys. Sony also threatened to sue anyone who distributed the keys.[10] Sony later accidentally retweeted an older dongle key through its fictional Kevin Butler character.[11]
+^ "Prime glossary - Illegal prime". Primes.utm.edu. 1999-10-06. Retrieved 2013-03-26.
+"Memorandum Order, in MPAA v. Reimerdes, Corley and Kazan". February 2, 2000. Retrieved December 30, 2018.
+"PS3 'jailbreak code' retweeted by Sony's Kevin Butler, no punchline needed"
+^ Kravets, David (February 8, 2011). "Sony lawyers now targeting anyone who posts PlayStation 3 hack". Ars Technica. Retrieved December 30, 2018.
+"Police charge leader of Slovak far-right party with extremism". Reuters. July 28, 2017. Retrieved December 30, 2018.
+Due to the association with gangs, in 2012 a school district in Colorado banned the wearing of jerseys that bore the numbers 18, 14, or 13 (or the reverse, 81, 41, or 31).[17]
+In 2012, it was reported that the numbers 89, 6, and 4 each became banned search terms on search engines in China, because of the date (1989-06-04) of the June Fourth Massacre in Tiananmen Square.[16]
+"Prime Curios: 48565...29443 (1401-digits)". Retrieved December 30, 2018. What folks often forget is a program (any file actually) is a string of bits (binary digits)—so every program is a number.
+Hogge, Becky (May 9, 2007). "Digging in". openDemocracy. Retrieved December 30, 2018.
+In part of the DeCSS court order[5] and in the AACS legal notices, the claimed protection for these numbers is based on their mere possession and the value or potential use of the numbers. This makes their status and legal issues surrounding their distribution quite distinct from that of copyright infringement.[5]
+An illegal prime is an illegal number which is also prime. One of the earliest illegal prime numbers was generated in March 2001 by Phil Carmody. Its binary representation corresponds to a compressed version of the C source code of a computer program implementing the DeCSS decryption algorithm, which can be used by a computer to circumvent a DVD's copy protection.[14]
+Meyer, Jeremy P. (September 5, 2012). "Greeley school ban on gang numbers includes Peyton Manning's 18". The Denver Post. Retrieved December 30, 2018.
+^ "Police charge leader of Slovak far-right party with extremism". Reuters. July 28, 2017. Retrieved December 30, 2018.
+^ Miller, Ross (February 9, 2011). "PS3 'jailbreak code' retweeted by Sony's Kevin Butler, no punchline needed". Engadget. Retrieved December 30, 2018.
+Greene, Thomas C. (March 19, 2001). "DVD descrambler encoded in 'illegal' prime number". The Register. Retrieved December 30, 2018. The question, of course, is whether an interesting number is illegal merely because it can be used to encode a contraband program.
+^ "The Prime Glossary: illegal prime". Retrieved December 30, 2018. The bottom line: If distributing code is illegal, and these numbers contain (or are) the code, doesn't that make these number illegal?
+Ornes, Stephen (March 16, 2012). "US judge rules that you can't copyright pi". New Scientist. Retrieved December 30, 2018.
+^ a b .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}Carmody, Phil. "An Executable Prime Number?". Retrieved December 30, 2018. Maybe I was reading something between the lines that wasn't there, but if arbitrary programs could be expressed as primes, the immediate conclusion is that all programs, including ones some people wished didn't exist, can too. I.e. the so called 'circumvention devices' of which my previous prime exploit was an example.
+^ "AACS licensor complains of posted key". Lumen. April 17, 2007. Retrieved December 30, 2018. Illegal Offering of Processing Key to Circumvent AACS Copyright Protection [...] are thereby providing and offering to the public a technology, product, service, device, component, or part thereof that is primarily designed, produced, or marketed for the purpose of circumventing the technological protection measures afforded by AACS (hereafter, the "circumvention offering"). Doing so constitutes a violation of the anti-circumvention provisions of the Digital Millennium Copyright Act (the "DMCA")
+There are other contexts in which smaller numbers have run afoul of laws or regulations, or drawn the attention of authorities.
+A number may represent some type of classified information or trade secret, legal to possess only by certain authorized persons. An AACS encryption key (09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0) that came to prominence in May 2007 is an example of a number claimed to be a secret, and whose publication or inappropriate possession is claimed to be illegal in the United States. It allegedly assists in the decryption of any HD DVD or Blu-ray Disc released before this date. The issuers of a series of cease-and-desist letters claim that the key itself is therefore a copyright circumvention device,[4] and that publishing the key violates Title 1 of the US Digital Millennium Copyright Act.
+^ a b "Memorandum Order, in MPAA v. Reimerdes, Corley and Kazan". February 2, 2000. Retrieved December 30, 2018.
+Masnick, Mike (June 25, 2013). "American Bankers' Association Claims Routing Numbers Are Copyrighted". TechDirt. Retrieved December 30, 2018.
+"Greeley school ban on gang numbers includes Peyton Manning's 18"
+Haran, Brady. "Illegal Numbers- feat. James Grime". Numberphile. Archived from the original on July 24, 2018. Retrieved December 30, 2018.
+^ Wells, David (2011). "Illegal prime". Prime Numbers: The Most Mysterious Figures in Math. Wiley. pp. 126–127. ISBN 9781118045718.
+"Banned in China on Tiananmen anniversary: 6, 4, 89 and 'today'"
+"The Prime Glossary: illegal prime". Retrieved December 30, 2018. The bottom line: If distributing code is illegal, and these numbers contain (or are) the code, doesn't that make these number illegal?
+"Sony follows up, officially sues Geohot and fail0verflow over PS3 jailbreak"

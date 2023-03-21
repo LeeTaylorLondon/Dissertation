@@ -1,0 +1,53 @@
+﻿
+Cannot use other Living Standards except Utopian Abundance and Chemical Bliss
+Cannot establish diplomatic pacts with biological empires Cannot use the Galactic Market Cannot join the Galactic Community Can use the Purification casus belli −1000 Opinion with every biological and  Rogue Servitor empire +200 Opinion with other  Determined Exterminator empires Biological pops will always be purged Gains +2 unity per purged pop Can use Armageddon Bombardment policy
+Standard civics represent the principles that guide day-to-day life within an empire. They can be picked by any empire that is neither a  Gestalt Consciousness or  Corporate empire, and are heavily influenced by the empire ethics and authority type.
+First time a world is polluted triggers the Environmental Deterioration situation
+Autochthon Monument buildings are replaced by Sanctuary of Repose buildings
+Replaces Farmer jobs with an Angler job on wet climates
+Gain a small amount of Unity when completing a First Contact
+Cannot establish diplomatic pacts Cannot release sectors as subjects Cannot use the Galactic Market Cannot join the Galactic Community Can use the Hunger Casus Belli −1000 Opinion with every empire Non-Hive-Minded pops will always be eaten and cannot be assimilated Gains +2 Society research from eating alien pops
+Starts with 5 Bio-Trophy Pops in addition to the initial Pops
+Start with 3 or 4 pops with the Zombie trait
+Can open branch offices on the worlds of members of the Galactic Imperium
+Organic, non-hive-minded Pops have Bio Trophy citizenship and Mandatory Pampering living standards
+Civics represent the principles of life within an empire and are primarily limited by the authority and ethics an empire possesses. Each empire starts with up to two civics, and this limit is increased to three civics by researching the  Galactic Administration technology or its equivalent. Civics can be changed every 20 years by reforming the government spending  10 unity per empire size. If at any point a civic's requirements are no longer met due to a change in empire ethics or authority, it becomes "dormant" and provide no bonus until it's replaced or its requirements are met again.
+Only relevant if you don't have Utopia: Gene Seed Purification Telepathy Precognition Interface Thought Enforcement Psi Jump Drives
+Full Citizenship pops must have Full Military Service and vice versa
+Increases the impact of Expertise traits on the likelihood of drawing same-category research options by +500%[1]
+Pops of different species will always be purged, except for  Mechanical species
+−40 Opinion from Authoritarian empires that are neither Pacifist nor Militarist
+10% chance per ship debris to create a ship of equal size
++0.33 Trade value per free Spiritualist pop on empire or planets with Branch Offices
+Biological, non-hive-minded pops must be assimilated into cyborgs or purged
++1 Building slot per 3 Industrial districts (except on Habitats) (+0.34 each)
+Hive Mind civics represent various characteristics of the collective consciousness of an empire. They can only be picked by an empire with  Hive Mind authority.
++1 Building slot per every 4 Agriculture districts (+0.25 each)
+33% chance to gain an Undead Army per killed organic army
+Can use the Mercantile Diplomatic Stance (unless also  Inward Perfection)
+Machine Intelligence civics represent various directives and construction purposes of the central artificial intelligence. They can only be picked by an empire with  Machine Intelligence authority.
+Bureaucrat and Priest category jobs produce Edict Fund equal to their Unity output
+Rivals Commercial Pact Defensive Pact Research Agreement Migration Treaty Guarantee Independence Federation Forced Tributary
+Know the layout of all systems within 3 hyperlane jumps
+After 80-120 years, can gain the Zombie Contract Manipulation empire modifier
+(unrecognized string “subspace drive” for Template:Icon) Start with the Subspace Drive technology
+−1 Replicator and  +1 Maintenance Drone jobs from capital buildings
+−20 Opinion from Militarist empires −80 Opinion from Pacifist empires −40 Opinion from Authoritarian empires that are neither Pacifist nor Militarist −40 Opinion fromwith the Enigmatic Observers and Benevolent Interventionists −50 Opinion from other empires
+Pops created through organic pop assembly have the Zombie trait
+Scientific Method technology is not researched but available as a permanent option
+Planetary Government technology is not researched but available as a permanent option
+Non-Hive-Minded pops will always be eaten and cannot be assimilated
+Cannot establish diplomatic pacts with alien empires Cannot release sectors as subjects Cannot use the Galactic Market Cannot join the Galactic Community Can use the Purification Casus Belli −1000 Opinion with every empire of a different species +200 Opinion with same-species  Fanatic Purifiers Pops of different species will always be purged, except for  Mechanical species Gains +2 Unity per purged pop Can use Armageddon Bombardment Policy
+Planetary Plexus technology is not researched but available as a permanent option
+This page was last edited on 14 March 2023, at 17:11.
+Hyperspace Travel technology is not researched but available as a permanent option
+Ruler and Governor leaders can't gain negative traits from leveling up
+Sovereign civics can only be obtained as a result of special circumstances. Each one grants an additional civic slot, meaning that they don't replace any other civic. However, the circumstances which add these civics typically change the empire's ethics and authority, and also remove any invalid civics due to those changes. Sovereign civics are not inherited by sectors released as vassals.
+Can build Branch Offices on the planet of any regular empire they have no war or truce with
+Capital Buildings replace some Politician jobs with High Priest jobs
+Corvettes technology is not researched but available as a permanent option
+Cannot establish diplomatic pacts Cannot use the Galactic Market Cannot join the Galactic Community Can use the Hunger Casus Belli −1000 Opinion with every empire Non-Hive-Minded pops will always be eaten and cannot be assimilated Gains +2 Society research from eating alien pops
+The in-game description says it doubles their effect, but it actually increases it from +25% (×1.25) to +150% (×2.5).
+Homeworld is a Tomb World if origin is not  Resource Consolidation
+↑ The in-game description says it doubles their effect, but it actually increases it from +25% (×1.25) to +150% (×2.5).
+Corporate civics represent the business principles of the leading megacorp. They can only be picked by an empire with  Corporate authority or theCorporate Sovereign civic.

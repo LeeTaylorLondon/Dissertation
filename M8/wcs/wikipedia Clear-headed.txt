@@ -1,0 +1,4 @@
+﻿Clear Headed is a perk for Invention that lengthens Anticipate's stun immunity, but completely removes its damage reduction. It can be created in weapon and armour gizmos.
+patch 7 March 2016 (Update):The Clearheaded perk will no longer stop Anticipation appearing on your opposition's target interface in PvP.
+This page was last modified on 11 March 2023, at 17:26.
+The Clearheaded perk will no longer stop Anticipation appearing on your opposition's target interface in PvP.

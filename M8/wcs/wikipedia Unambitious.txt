@@ -1,0 +1,13 @@
+﻿Downgrade 7.x Microsoft extensions packages to 6.x, do not reference …
+added: DryIocZero example; fixed: xml-docs; updated: DryIoc to v3 pre…
+Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+You signed in with another tab or window. Reload to refresh your session.
+Either commands, from Package Manager Console or .NET Core CLI, will download and install MediatR and all required dependencies.
+ProductActionsAutomate any workflowPackagesHost and manage packagesSecurityFind and fix vulnerabilitiesCodespacesInstant dev environmentsCopilotWrite better code with AICode reviewManage code changesIssuesPlan and track workDiscussionsCollaborate outside of codeExploreAll featuresDocumentationGitHub SkillsBlog
+MediatR supports Microsoft.Extensions.DependencyInjection.Abstractions directly. To register various MediatR services and handlers:
+You signed out in another tab or window. Reload to refresh your session.
+There was a problem preparing your codespace, please try again.
+Use Git or checkout with SVN using the web URL.
+This package is useful in scenarios where your MediatR contracts are in a separate assembly/project from handlers. Example scenarios include:
+CloneHTTPSGitHub CLIUse Git or checkout with SVN using the web URL.Work fast with our official CLI.Learn more.
+Open SourceGitHub SponsorsFund open source developersThe ReadME ProjectGitHub community articlesRepositoriesTopicsTrendingCollections
