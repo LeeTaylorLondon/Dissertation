@@ -1,8 +1,8 @@
 # Dissertation  
 My Undergraduate dissertation project.   
 
-Reproduce methods and results for **Synonym Discovery** (Bibliographic review).
-If possible suggest improvements, a new novel method to improve Synonym Discovery.
+Reproduce methods and results for **Synonym Discovery** (Bibliographic review).  
+If possible suggest a new novel method (or an improvement) to improve Synonym Discovery.
 
 
 ## Results
