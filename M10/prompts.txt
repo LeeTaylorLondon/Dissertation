@@ -1,0 +1,1275 @@
+Write one list full of synonyms and antonyms for my target word 'Accessible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Active', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Adaptable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Admirable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Adventurous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Agreeable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Alert', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Allocentric', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Amiable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Anticipative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Appreciative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Articulate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Aspiring', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Athletic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Attractive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Balanced', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Benevolent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Brilliant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Calm', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Capable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Captivating', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Caring', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Challenging', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Charismatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Charming', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cheerful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Clean', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Clear-headed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Clever', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Colorful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Companionly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Compassionate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conciliatory', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Confident', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conscientious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Considerate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Constant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Contemplative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cooperative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Courageous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Courteous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Creative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cultured', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Curious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Daring', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Debonair', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Decent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Decisive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dedicated', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Deep', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dignified', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Directed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disciplined', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Discreet', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dramatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dutiful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dynamic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Earnest', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ebullient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Educated', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Efficient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Elegant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Eloquent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Empathetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Energetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Enthusiastic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Esthetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Exciting', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Extraordinary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fair', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Faithful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Farsighted', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Felicific', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Firm', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Flexible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Focused', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Forecful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Forgiving', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Forthright', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Freethinking', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Friendly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fun-loving', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Gallant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Generous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Gentle', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Genuine', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Good-natured', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Gracious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hardworking', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Healthy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hearty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Helpful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Herioc', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'High-minded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Honest', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Honorable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Humble', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Humorous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Idealistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Imaginative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impressive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Incisive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Incorruptible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Independent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Individualistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Innovative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Inoffensive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insightful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insouciant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Intelligent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Intuitive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Invulnerable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Kind', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Knowledge', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Leaderly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Leisurely', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Liberal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Logical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Lovable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Loyal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Lyrical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Magnanimous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Many-sided', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Masculine  (Manly)', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mature', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Methodical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Maticulous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Moderate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Modest', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Multi-leveled', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Neat', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Nonauthoritarian', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Objective', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Observant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Open', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Optimistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Orderly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Organized', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Original', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Painstaking', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Passionate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Patient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Patriotic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Peaceful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Perceptive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Perfectionist', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Personable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Persuasive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Planful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Playful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Polished', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Popular', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Practical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Precise', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Principled', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Profound', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Protean', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Protective', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Providential', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Prudent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Punctual', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pruposeful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Rational', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Realistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reflective', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Relaxed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reliable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Resourceful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Respectful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Responsible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Responsive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reverential', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Romantic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Rustic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sage', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sane', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Scholarly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Scrupulous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Secure', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Selfless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-critical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-defacing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-denying', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-reliant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-sufficent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sensitive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sentimental', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Seraphic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Serious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sexy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sharing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Shrewd', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Simple', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Skillful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sober', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sociable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Solid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sophisticated', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Spontaneous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sporting', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Steadfast', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Steady', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stoic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Strong', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Studious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Suave', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Subtle', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sweet', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sympathetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Systematic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tasteful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Teacherly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Thorough', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tidy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tolerant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tractable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Trusting', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncomplaining', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Understanding', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Undogmatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unfoolable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Upright', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Urbane', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Venturesome', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Vivacious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Warm', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Well-bred', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Well-read', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Well-rounded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Winning', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Wise', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Witty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Youthful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Absentminded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Aggressive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ambitious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Amusing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Artful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ascetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Authoritarian', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Big-thinking', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Boyish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Breezy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Businesslike', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Busy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Casual', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crebral', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Chummy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Circumspect', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Competitive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Complex', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Confidential', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conservative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Contradictory', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crisp', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cute', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Deceptive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Determined', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dominating', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dreamy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Driving', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Droll', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dry', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Earthy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Effeminate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Emotional', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Enigmatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Experimental', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Familial', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Folksy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Formal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Freewheeling', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Frugal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Glamorous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Guileless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'High-spirited', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Huried', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hypnotic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Iconoclastic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Idiosyncratic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impassive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impersonal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impressionable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Intense', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Invisible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irreligious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irreverent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Maternal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mellow', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Modern', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Moralistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mystical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Neutral', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Noncommittal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Noncompetitive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Obedient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Old-fashined', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ordinary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Outspoken', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Paternalistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Physical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Placid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Political', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Predictable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Preoccupied', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Private', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Progressive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Proud', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pure', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Questioning', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Quiet', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Religious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reserved', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Restrained', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Retiring', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sarcastic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-conscious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sensual', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Skeptical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Smooth', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Soft', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Solemn', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Solitary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stern', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stoiid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Strict', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stubborn', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stylish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Subjective', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Surprising', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Soft', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tough', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unaggressive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unambitious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unceremonious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unchanging', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Undemanding', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unfathomable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unhurried', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uninhibited', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unpatriotic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unpredicatable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unreligious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unsentimental', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Whimsical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Abrasive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Abrupt', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Agonizing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Aimless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Airy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Aloof', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Amoral', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Angry', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Anxious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Apathetic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Arbitrary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Argumentative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Arrogantt', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Artificial', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Asocial', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Assertive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Astigmatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Barbaric', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Bewildered', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Bizarre', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Bland', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Blunt', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Biosterous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Brittle', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Brutal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Calculating', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Callous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cantakerous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Careless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cautious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Charmless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Childish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Clumsy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Coarse', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cold', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Colorless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Complacent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Complaintive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Compulsive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conceited', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Condemnatory', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conformist', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Confused', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Contemptible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Conventional', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cowardly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crafty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crass', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crazy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Criminal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Critical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Crude', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cruel', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Cynical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Decadent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Deceitful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Delicate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Demanding', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dependent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Desperate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Destructive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Devious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Difficult', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dirty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disconcerting', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Discontented', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Discouraging', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Discourteous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dishonest', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disloyal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disobedient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disorderly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disorganized', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disputatious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disrespectful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disruptive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dissolute', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dissonant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Distractible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Disturbing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dogmatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Domineering', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Dull', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Easily Discouraged', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Egocentric', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Enervated', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Envious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Erratic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Escapist', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Excitable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Expedient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Extravagant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Extreme', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Faithless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'False', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fanatical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fanciful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fatalistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fawning', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fearful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fickle', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fiery', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fixed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Flamboyant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Foolish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Forgetful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Fraudulent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Frightening', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Frivolous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Gloomy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Graceless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Grand', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Greedy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Grim', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Gullible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hateful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Haughty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hedonistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hesitant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hidebound', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'High-handed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Hostile', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ignorant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Imitative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impatient', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impractical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Imprudent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Impulsive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Inconsiderate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Incurious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Indecisive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Indulgent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Inert', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Inhibited', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insecure', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insensitive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insincere', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Insulting', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Intolerant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irascible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irrational', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irresponsible', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Irritable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Lazy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Libidinous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Loquacious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Malicious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mannered', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mannerless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mawkish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mealymouthed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mechanical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Meddlesome', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Melancholic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Meretricious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Messy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Miserable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Miserly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Misguided', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Mistaken', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Money-minded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Monstrous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Moody', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Morbid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Muddle-headed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Naive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Narcissistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Narrow', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Narrow-minded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Natty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Negativistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Neglectful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Neurotic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Nihilistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Obnoxious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Obsessive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Obvious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Odd', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Offhand', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'One-dimensional', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'One-sided', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Opinionated', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Opportunistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Oppressed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Outrageous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Overimaginative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Paranoid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Passive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pedantic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Perverse', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Petty', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pharissical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Phlegmatic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Plodding', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pompous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Possessive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Power-hungry', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Predatory', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Prejudiced', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Presumptuous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pretentious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Prim', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Procrastinating', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Profligate', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Provocative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Pugnacious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Puritanical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Quirky', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reactionary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Reactive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Regimental', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Regretful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Repentant', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Repressed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Resentful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ridiculous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Rigid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ritualistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Rowdy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ruined', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sadistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sanctimonious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Scheming', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Scornful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Secretive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sedentary', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Selfish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Self-indulgent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Shallow', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Shortsighted', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Shy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Silly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Single-minded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sloppy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Slow', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Small-thinking', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Softheaded', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Sordid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Steely', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stiff', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Strong-willed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Stupid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Submissive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Superficial', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Superstitious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Suspicious', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tactless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tasteless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Tense', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Thievish', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Thoughtless', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Timid', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Transparent', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Treacherous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Trendy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Troublesome', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unappreciative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncaring', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncharitable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unconvincing', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncooperative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncreative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Uncritical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unctuous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Undisciplined', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unfriendly', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Ungrateful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unhealthy', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unimaginative', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unimpressive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unlovable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unpolished', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unprincipled', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unrealistic', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unreflective', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unreliable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unrestrained', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unself-critical', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Unstable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Vacuous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Vague', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Venal', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Venomous', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Vindictive', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Vulnerable', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Weak', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Weak-willed', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Well-meaning', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Willful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Wishful', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
+
+Write one list full of synonyms and antonyms for my target word 'Zany', ordered by closest semantic meaning to my target word starting with synonyms. Write this information in a python dictionary, {my_target_word: one python list of synonyms with antonyms}
