@@ -1,5 +1,6 @@
 """
 Author: Andrej Kaparthy
+Used by: Lee Taylor
 
 Full definition of a GPT Language Model, all of it in this single file.
 References:
