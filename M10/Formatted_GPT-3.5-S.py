@@ -1410,8 +1410,7 @@ dict_.update({
     ]
 })
 
-dict_.update({'Optimistic': ['Hopeful', 'Confident', 'Positive', 'Cheerful', 'Upbeat', 'Encouraging', 'Assured', 'Idealistic', 'Expectant', 'Sanguine'], 
- 'Antonyms': ['Pessimistic', 'Doubtful', 'Cynical', 'Defeatist', 'Despairing', 'Melanch']})
+dict_.update({'Optimistic': ['Hopeful', 'Confident', 'Positive', 'Cheerful', 'Upbeat', 'Encouraging', 'Assured', 'Idealistic', 'Expectant', 'Sanguine', 'Pessimistic', 'Doubtful', 'Cynical', 'Defeatist', 'Despairing', 'Melanch']})
 
 dict_.update({
     'Orderly': [
@@ -1468,8 +1467,8 @@ dict_.update({
 
 dict_.update({
     "Patient": [
-        "Synonyms: enduring, persevering, tolerant, stoic, uncomplaining",
-        "Antonyms: impatient, intolerant, irritable, agitated, restless"
+        'enduring', 'persevering', 'tolerant', 'stoic', 'uncomplaining',
+        'impatient', 'intolerant', 'irritable', 'agitated', 'restless'
     ]
 })
 
@@ -1880,8 +1879,8 @@ dict_.update({'Well-read': ['Knowledgeable',
 
 dict_.update({'Well-rounded': ['Versatile', 'Adaptable', 'Multifaceted', 'Flexible', 'Broad-based', 'Diverse', 'Rounded', 'Balanced', 'Varied', 'Specialized', 'Narrow', 'Unidimensional', 'One-sided', 'Limited', 'Inflexible']})
 
-dict_.update({'Winning': ['Synonyms: charming, captivating, attractive, alluring, delightful, enchanting, engaging, pleasing, seductive, irresistible',
-'Antonyms: unappealing, unattractive, uncharming, uninviting, unpleasant, repellent, repugnant, unappealing, unseductive']})
+dict_.update({'Winning': ['charming', 'captivating', 'attractive', 'alluring', 'delightful', 'enchanting', 'engaging', 'pleasing', 'seductive', 'irresistible',
+'unappealing', 'unattractive', 'uncharming', 'uninviting', 'unpleasant', 'repellent', 'repugnant', 'unappealing', 'unseductive']})
 
 dict_.update({
     "Wise": [
